@@ -1,0 +1,22 @@
+{
+  "@context": "http://iiif.io/api/image/3/context.json",
+  "id": "https://iiif.tiju.ca/br_rjanrio_ta_0_0_0001/597ebe0580886ce851afc6a582a92a5c",
+  "type": "ImageService3",
+  "profile": "level0",
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [
+    {
+      "scaleFactors": [
+        1,
+        2
+      ],
+      "width": 256
+    }
+  ],
+  "width": 705,
+  "height": 920,
+  "sizes": [
+    {},
+    {}
+  ]
+}

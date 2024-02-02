@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/image/3/context.json",
+  "id": "https://iiif.tiju.ca/cx02.046.a1-3/feb4938e6d24d9256d43715c01818fb8",
+  "type": "ImageService3",
+  "profile": "level0",
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [
+    {
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ],
+      "width": 256
+    }
+  ],
+  "width": 1898,
+  "height": 3163,
+  "sizes": [
+    {
+      "width": 180,
+      "height": 300
+    },
+    {
+      "width": 1200,
+      "height": 2000
+    }
+  ]
+}

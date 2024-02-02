@@ -1,0 +1,4042 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://iiif.tiju.ca/cx02.046.a1-3/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Inventário de Jesuína Ferreira Gomes Archer"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Manoel Gomes Archer"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1897"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Inventário"
+                ]
+            }
+        }
+    ],
+    "requiredStatement": {
+        "label": "Attribution",
+        "value": "Provided by TJRJ"
+    },
+    "rights": "Public Domain",
+    "thumbnail": [
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/6847c5f779854ce349aad02429025bc3/full/212,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 212
+        }
+    ],
+    "items": [
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/1",
+            "type": "Canvas",
+            "height": 3006,
+            "width": 2124,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/1",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/6847c5f779854ce349aad02429025bc3/full/1413,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1413,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/6847c5f779854ce349aad02429025bc3",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/2",
+            "type": "Canvas",
+            "height": 3008,
+            "width": 2071,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/2/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/2/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/2",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/f022cdbdff201b014fbe6a192cc55db8/full/1377,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1377,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/f022cdbdff201b014fbe6a192cc55db8",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/3",
+            "type": "Canvas",
+            "height": 3092,
+            "width": 2150,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/3/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/3/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/3",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/f40658d1287eddfc02133375ac2a40c3/full/1391,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1391,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/f40658d1287eddfc02133375ac2a40c3",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/4",
+            "type": "Canvas",
+            "height": 3104,
+            "width": 1730,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/4/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/4/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/4",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/1c3f32b385086198b315d194317b31ec/full/1115,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1115,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/1c3f32b385086198b315d194317b31ec",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/5",
+            "type": "Canvas",
+            "height": 3104,
+            "width": 1810,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/5/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/5/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/5",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/7294ac98af864a84baa8e93a5efb5224/full/1166,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1166,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/7294ac98af864a84baa8e93a5efb5224",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/6",
+            "type": "Canvas",
+            "height": 3126,
+            "width": 1746,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/6/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/6/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/6",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/240e7c636da9bc5ba10011c477c20058/full/1117,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1117,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/240e7c636da9bc5ba10011c477c20058",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/7",
+            "type": "Canvas",
+            "height": 3126,
+            "width": 1820,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/7/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/7/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/7",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/1dbf46d7d32dd5af0c00f70e964ba953/full/1164,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1164,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/1dbf46d7d32dd5af0c00f70e964ba953",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/8",
+            "type": "Canvas",
+            "height": 3128,
+            "width": 1751,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/8/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/8/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/8",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/0683152fe0dac3faa64da7ffc50bc1e4/full/1120,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1120,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/0683152fe0dac3faa64da7ffc50bc1e4",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/9",
+            "type": "Canvas",
+            "height": 3128,
+            "width": 1832,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/9/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/9/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/9",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/3bd01148f8015efbd13e535c77dfebc7/full/1171,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1171,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/3bd01148f8015efbd13e535c77dfebc7",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/10",
+            "type": "Canvas",
+            "height": 1636,
+            "width": 983,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/10/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/10/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/10",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/bdcd329f7f71e451a7709543c5339bf9/full/983,1636/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1636,
+                                "width": 983,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/bdcd329f7f71e451a7709543c5339bf9",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/11",
+            "type": "Canvas",
+            "height": 3115,
+            "width": 1779,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/11/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/11/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/11",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/a93031f2cd461c9e3d438632e8d440c2/full/1142,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1142,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/a93031f2cd461c9e3d438632e8d440c2",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/12",
+            "type": "Canvas",
+            "height": 3115,
+            "width": 1857,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/12/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/12/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/12",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/00393d17f5489a81c031f98edad69875/full/1192,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1192,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/00393d17f5489a81c031f98edad69875",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/13",
+            "type": "Canvas",
+            "height": 3120,
+            "width": 1790,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/13/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/13/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/13",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/dbaaa664fbfeba9466d17bb11f44b333/full/1147,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1147,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/dbaaa664fbfeba9466d17bb11f44b333",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/14",
+            "type": "Canvas",
+            "height": 3120,
+            "width": 1860,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/14/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/14/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/14",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/daa4529892d6b91a135e835a1f5b49c3/full/1192,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1192,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/daa4529892d6b91a135e835a1f5b49c3",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/15",
+            "type": "Canvas",
+            "height": 3119,
+            "width": 1799,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/15/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/15/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/15",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/23d670178d351f5a29045866b419c678/full/1154,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1154,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/23d670178d351f5a29045866b419c678",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/16",
+            "type": "Canvas",
+            "height": 3119,
+            "width": 1849,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/16/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/16/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/16",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/1b573e30b80186d646e3186eb62ea171/full/1186,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1186,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/1b573e30b80186d646e3186eb62ea171",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/17",
+            "type": "Canvas",
+            "height": 3123,
+            "width": 1796,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/17/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/17/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/17",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/032da7652904aad4d39e69174677e840/full/1150,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1150,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/032da7652904aad4d39e69174677e840",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/18",
+            "type": "Canvas",
+            "height": 3123,
+            "width": 1851,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/18/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/18/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/18",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/5ee0698c87d76e5e7868a8418af9d2fe/full/1185,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1185,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/5ee0698c87d76e5e7868a8418af9d2fe",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/19",
+            "type": "Canvas",
+            "height": 3147,
+            "width": 1811,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/19/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/19/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/19",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/b629a8203ad775154f46cdc2d9d4c1ee/full/1151,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1151,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/b629a8203ad775154f46cdc2d9d4c1ee",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/20",
+            "type": "Canvas",
+            "height": 3147,
+            "width": 1896,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/20/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/20/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/20",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/eaece08f0489f1c2ad3656a9f7da4f11/full/1205,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1205,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/eaece08f0489f1c2ad3656a9f7da4f11",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/21",
+            "type": "Canvas",
+            "height": 3129,
+            "width": 1792,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/21/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/21/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/21",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/773367be924e411f3b6c3770a3eb91cd/full/1145,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1145,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/773367be924e411f3b6c3770a3eb91cd",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/22",
+            "type": "Canvas",
+            "height": 3129,
+            "width": 1868,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/22/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/22/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/22",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/7f87186a990601b9e3dbbdf47bac01d2/full/1194,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1194,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/7f87186a990601b9e3dbbdf47bac01d2",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/23",
+            "type": "Canvas",
+            "height": 3125,
+            "width": 1803,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/23/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/23/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/23",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/5fd8530635c6482be457a3dfc84a7e91/full/1154,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1154,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/5fd8530635c6482be457a3dfc84a7e91",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/24",
+            "type": "Canvas",
+            "height": 3125,
+            "width": 1859,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/24/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/24/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/24",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/5af85f9fc9bd954e1f925f4dbe0cca24/full/1190,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1190,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/5af85f9fc9bd954e1f925f4dbe0cca24",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/25",
+            "type": "Canvas",
+            "height": 3129,
+            "width": 1799,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/25/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/25/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/25",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/8280b7547aa09c78782ce4849fa7c732/full/1150,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1150,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/8280b7547aa09c78782ce4849fa7c732",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/26",
+            "type": "Canvas",
+            "height": 3129,
+            "width": 1872,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/26/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/26/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/26",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/4271d9043ab21540a0b75fcad02e0417/full/1197,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1197,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/4271d9043ab21540a0b75fcad02e0417",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/27",
+            "type": "Canvas",
+            "height": 3126,
+            "width": 1797,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/27/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/27/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/27",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/f039aaa80c6f982f015d6e5ebf900dbd/full/1150,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1150,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/f039aaa80c6f982f015d6e5ebf900dbd",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/28",
+            "type": "Canvas",
+            "height": 3126,
+            "width": 1875,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/28/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/28/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/28",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/9e7bef9c2e30dbf7ef50e7eeb43e1fff/full/1200,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1200,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/9e7bef9c2e30dbf7ef50e7eeb43e1fff",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/29",
+            "type": "Canvas",
+            "height": 3136,
+            "width": 1796,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/29/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/29/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/29",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/de7bf978035067787074dc62696c961b/full/1145,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1145,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/de7bf978035067787074dc62696c961b",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/30",
+            "type": "Canvas",
+            "height": 3136,
+            "width": 1882,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/30/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/30/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/30",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/2364c6e8c054a1a18f4a8b450695af6a/full/1200,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1200,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/2364c6e8c054a1a18f4a8b450695af6a",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/31",
+            "type": "Canvas",
+            "height": 3142,
+            "width": 1821,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/31/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/31/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/31",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/8e64fdcd51e5c3879a86a1f72b27110f/full/1159,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1159,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/8e64fdcd51e5c3879a86a1f72b27110f",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/32",
+            "type": "Canvas",
+            "height": 3142,
+            "width": 1868,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/32/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/32/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/32",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/b95a9d9fba6fe28cca7cf6f0881f91fd/full/1189,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1189,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/b95a9d9fba6fe28cca7cf6f0881f91fd",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/33",
+            "type": "Canvas",
+            "height": 3144,
+            "width": 1828,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/33/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/33/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/33",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/02c9fce3bdfd92baccfebcfd24f4d7ae/full/1163,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1163,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/02c9fce3bdfd92baccfebcfd24f4d7ae",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/34",
+            "type": "Canvas",
+            "height": 3144,
+            "width": 1861,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/34/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/34/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/34",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/c448a827b1e97eaa26032201c703fad4/full/1184,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1184,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/c448a827b1e97eaa26032201c703fad4",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/35",
+            "type": "Canvas",
+            "height": 3143,
+            "width": 1826,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/35/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/35/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/35",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/ae9b6a9b53db22bda5d84fd798a81069/full/1162,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1162,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/ae9b6a9b53db22bda5d84fd798a81069",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/36",
+            "type": "Canvas",
+            "height": 3143,
+            "width": 1855,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/36/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/36/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/36",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/e23e23dae604a296bf9493704bc8676f/full/1180,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1180,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/e23e23dae604a296bf9493704bc8676f",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/37",
+            "type": "Canvas",
+            "height": 3139,
+            "width": 1833,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/37/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/37/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/37",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/9d3bcadf2396a62b0d28fc0442932b57/full/1168,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1168,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/9d3bcadf2396a62b0d28fc0442932b57",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/38",
+            "type": "Canvas",
+            "height": 3139,
+            "width": 1844,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/38/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/38/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/38",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/c571b85e25b2cf8aae089765aa111a73/full/1175,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1175,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/c571b85e25b2cf8aae089765aa111a73",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/39",
+            "type": "Canvas",
+            "height": 3153,
+            "width": 1821,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/39/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/39/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/39",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/40f6ad961e9be39b531872986ae4a536/full/1155,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1155,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/40f6ad961e9be39b531872986ae4a536",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/40",
+            "type": "Canvas",
+            "height": 3153,
+            "width": 1875,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/40/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/40/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/40",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/dff9ca9878eca02e45dafc45abe8e4be/full/1189,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1189,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/dff9ca9878eca02e45dafc45abe8e4be",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/41",
+            "type": "Canvas",
+            "height": 3149,
+            "width": 1821,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/41/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/41/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/41",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/34a48a8e43d6b7583e598d3136a579ea/full/1157,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1157,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/34a48a8e43d6b7583e598d3136a579ea",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/42",
+            "type": "Canvas",
+            "height": 3149,
+            "width": 1872,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/42/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/42/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/42",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/4e01f4b13e9090a3298df5f4d1048b00/full/1189,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1189,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/4e01f4b13e9090a3298df5f4d1048b00",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/43",
+            "type": "Canvas",
+            "height": 3146,
+            "width": 1811,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/43/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/43/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/43",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/3e2699e94b6b5474c7a447199f664630/full/1151,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1151,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/3e2699e94b6b5474c7a447199f664630",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/44",
+            "type": "Canvas",
+            "height": 3159,
+            "width": 1896,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/44/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/44/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/44",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/3c884ea0ad876805e7faf13ad9a92940/full/1200,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1200,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/3c884ea0ad876805e7faf13ad9a92940",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/45",
+            "type": "Canvas",
+            "height": 3159,
+            "width": 1843,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/45/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/45/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/45",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/fae53f19fdf254dfdef700fcbca7877b/full/1167,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1167,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/fae53f19fdf254dfdef700fcbca7877b",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/46",
+            "type": "Canvas",
+            "height": 3166,
+            "width": 1903,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/46/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/46/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/46",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/eb7ce43448b01109d6c8d0e2c7233dd8/full/1202,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1202,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/eb7ce43448b01109d6c8d0e2c7233dd8",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/47",
+            "type": "Canvas",
+            "height": 3168,
+            "width": 1835,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/47/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/47/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/47",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/b77f17394277e7a2c8f5569700bc3a78/full/1158,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1158,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/b77f17394277e7a2c8f5569700bc3a78",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/48",
+            "type": "Canvas",
+            "height": 3168,
+            "width": 1886,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/48/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/48/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/48",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/b14a744742b6580cb6f8bf61efc60a26/full/1191,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1191,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/b14a744742b6580cb6f8bf61efc60a26",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/49",
+            "type": "Canvas",
+            "height": 3160,
+            "width": 1856,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/49/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/49/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/49",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/f0cd7e8dfccf7f5e64d595d4752d742d/full/1175,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1175,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/f0cd7e8dfccf7f5e64d595d4752d742d",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/50",
+            "type": "Canvas",
+            "height": 3163,
+            "width": 1898,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/50/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/50/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/50",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/feb4938e6d24d9256d43715c01818fb8/full/1200,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1200,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/feb4938e6d24d9256d43715c01818fb8",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/51",
+            "type": "Canvas",
+            "height": 3164,
+            "width": 1891,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/51/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/51/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/51",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/eccbc2f499ff247f67c247095436d1a0/full/1195,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1195,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/eccbc2f499ff247f67c247095436d1a0",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/52",
+            "type": "Canvas",
+            "height": 3174,
+            "width": 1880,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/52/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/52/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/52",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/6e512119768f759d0054f328b81cd595/full/1185,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1185,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/6e512119768f759d0054f328b81cd595",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/53",
+            "type": "Canvas",
+            "height": 3154,
+            "width": 1857,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/53/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/53/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/53",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/3741316dfe22c6aa9538e8b1447670e3/full/1178,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1178,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/3741316dfe22c6aa9538e8b1447670e3",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/54",
+            "type": "Canvas",
+            "height": 3165,
+            "width": 1905,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/54/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/54/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/54",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/41cea44bbd0ca5c29bbc55f6d468572a/full/1204,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1204,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/41cea44bbd0ca5c29bbc55f6d468572a",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/55",
+            "type": "Canvas",
+            "height": 3164,
+            "width": 1814,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/55/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/55/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/55",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/ea5631c36404522bb0330fa55fa31218/full/1147,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1147,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/ea5631c36404522bb0330fa55fa31218",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/56",
+            "type": "Canvas",
+            "height": 3180,
+            "width": 1925,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/56/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/56/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/56",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/8650410cde7fce1353329a4f5c98b88c/full/1211,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1211,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/8650410cde7fce1353329a4f5c98b88c",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/57",
+            "type": "Canvas",
+            "height": 3181,
+            "width": 1841,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/57/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/57/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/57",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/ccc44d24d02ca2f4a4f894591c543a26/full/1157,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1157,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/ccc44d24d02ca2f4a4f894591c543a26",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/58",
+            "type": "Canvas",
+            "height": 3181,
+            "width": 1938,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/58/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/58/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/58",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/84acddada4e86c18bb5f3c6c270fa305/full/1218,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1218,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/84acddada4e86c18bb5f3c6c270fa305",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/59",
+            "type": "Canvas",
+            "height": 3190,
+            "width": 1858,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/59/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/59/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/59",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/17353759eba4b4bdd069add8a9163027/full/1165,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1165,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/17353759eba4b4bdd069add8a9163027",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/60",
+            "type": "Canvas",
+            "height": 3190,
+            "width": 1916,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/60/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/60/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/60",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/95e1c4787e9bd9c2a33b5a6abdebf4a5/full/1201,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1201,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/95e1c4787e9bd9c2a33b5a6abdebf4a5",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/61",
+            "type": "Canvas",
+            "height": 3190,
+            "width": 1844,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/61/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/61/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/61",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/070d7ad9759e6b91c768a952ba1a5e52/full/1156,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1156,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/070d7ad9759e6b91c768a952ba1a5e52",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/62",
+            "type": "Canvas",
+            "height": 3190,
+            "width": 1935,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/62/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/62/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/62",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/87d51423885ddc6b8ccbc8f41d6e37fb/full/1213,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1213,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/87d51423885ddc6b8ccbc8f41d6e37fb",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/63",
+            "type": "Canvas",
+            "height": 3193,
+            "width": 1863,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/63/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/63/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/63",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/60b3f2c90161af8b17f797f03ecb6710/full/1167,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1167,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/60b3f2c90161af8b17f797f03ecb6710",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/64",
+            "type": "Canvas",
+            "height": 3193,
+            "width": 1918,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/64/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/64/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/64",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/89da77b9d1f9b64563765aeb5bddaeed/full/1201,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1201,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/89da77b9d1f9b64563765aeb5bddaeed",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/65",
+            "type": "Canvas",
+            "height": 3197,
+            "width": 1826,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/65/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/65/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/65",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/63e41aae454bdab0be75379fd694902d/full/1142,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1142,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/63e41aae454bdab0be75379fd694902d",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/66",
+            "type": "Canvas",
+            "height": 3197,
+            "width": 1965,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/66/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/66/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/66",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/cd0dad7ba58c90d340d2a79459a8ced3/full/1229,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1229,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/cd0dad7ba58c90d340d2a79459a8ced3",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/67",
+            "type": "Canvas",
+            "height": 3197,
+            "width": 1847,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/67/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/67/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/67",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/351f445505d78c3924351dcba15b007a/full/1155,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1155,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/351f445505d78c3924351dcba15b007a",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/68",
+            "type": "Canvas",
+            "height": 3197,
+            "width": 1954,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/68/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/68/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/68",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/fa445671a9dc846991d324c1b7f6d1b9/full/1222,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1222,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/fa445671a9dc846991d324c1b7f6d1b9",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/69",
+            "type": "Canvas",
+            "height": 3182,
+            "width": 1990,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/69/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/69/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/69",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/9c674473dabae8544e78eb2a9f9a0ae6/full/1251,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1251,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/9c674473dabae8544e78eb2a9f9a0ae6",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/70",
+            "type": "Canvas",
+            "height": 3182,
+            "width": 1947,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/70/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/70/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/70",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/d57172e222279a43bd8df79a45500f39/full/1224,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1224,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/d57172e222279a43bd8df79a45500f39",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/71",
+            "type": "Canvas",
+            "height": 3179,
+            "width": 1850,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/71/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/71/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/71",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/b5054bf70b206c8b5add578b3d73f570/full/1164,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1164,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/b5054bf70b206c8b5add578b3d73f570",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/72",
+            "type": "Canvas",
+            "height": 3179,
+            "width": 1964,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/72/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/72/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/72",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/d0ed89de5d9e299b028d5a974f6122f0/full/1236,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1236,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/d0ed89de5d9e299b028d5a974f6122f0",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/73",
+            "type": "Canvas",
+            "height": 3152,
+            "width": 1889,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/73/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/73/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/73",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/aa24a267dfe47eacdef28525cc53d93e/full/1199,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1199,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/aa24a267dfe47eacdef28525cc53d93e",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/74",
+            "type": "Canvas",
+            "height": 3165,
+            "width": 1980,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/74/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/74/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/74",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/21183cbe4ef95ca3a9d05833253b3e25/full/1251,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1251,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/21183cbe4ef95ca3a9d05833253b3e25",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/75",
+            "type": "Canvas",
+            "height": 3222,
+            "width": 1790,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/75/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/75/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/75",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/780de2c58943f4f72c100010af804ffe/full/1111,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1111,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/780de2c58943f4f72c100010af804ffe",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/76",
+            "type": "Canvas",
+            "height": 3222,
+            "width": 1958,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/76/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/76/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/76",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/4c15017a30974d698ed12c2f99e7bd85/full/1215,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1215,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/4c15017a30974d698ed12c2f99e7bd85",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/77",
+            "type": "Canvas",
+            "height": 3213,
+            "width": 1892,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/77/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/77/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/77",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/99e989e2e6ddad4b44219436476b17bc/full/1178,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1178,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/99e989e2e6ddad4b44219436476b17bc",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/78",
+            "type": "Canvas",
+            "height": 3213,
+            "width": 2005,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/78/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/78/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/78",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/c421f2ead27806cdfe2eb51139a6e170/full/1248,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1248,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/c421f2ead27806cdfe2eb51139a6e170",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/79",
+            "type": "Canvas",
+            "height": 3224,
+            "width": 1807,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/79/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/79/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/79",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/1113ac39d5cd50545f083d440df25c82/full/1121,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1121,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/1113ac39d5cd50545f083d440df25c82",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/80",
+            "type": "Canvas",
+            "height": 3224,
+            "width": 1995,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/80/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/80/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/80",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/3e044f071ada69597f7d7686f8c0a25e/full/1238,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1238,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/3e044f071ada69597f7d7686f8c0a25e",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/81",
+            "type": "Canvas",
+            "height": 3224,
+            "width": 1932,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/81/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/81/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/81",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/487819c44583dfae79fbaed22f4dd981/full/1199,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1199,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/487819c44583dfae79fbaed22f4dd981",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/82",
+            "type": "Canvas",
+            "height": 3224,
+            "width": 1988,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/82/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/82/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/82",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/fe7a596ccff124f7c308cd1eaed08138/full/1233,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1233,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/fe7a596ccff124f7c308cd1eaed08138",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/83",
+            "type": "Canvas",
+            "height": 3224,
+            "width": 1835,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/83/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/83/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/83",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/99d8f24b4ce92d6a987caf725ebe2238/full/1138,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1138,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/99d8f24b4ce92d6a987caf725ebe2238",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/84",
+            "type": "Canvas",
+            "height": 3224,
+            "width": 2022,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/84/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/84/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/84",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/90ac56a20068fe70530165da9398c182/full/1254,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1254,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/90ac56a20068fe70530165da9398c182",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/85",
+            "type": "Canvas",
+            "height": 3224,
+            "width": 1830,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/85/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/85/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/85",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/5e1cb5d9a9b50b4682e70a0b6b89c763/full/1135,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1135,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/5e1cb5d9a9b50b4682e70a0b6b89c763",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/86",
+            "type": "Canvas",
+            "height": 3224,
+            "width": 2021,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/86/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/86/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/86",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/f37b6a1f0d343c567a08549af81ed269/full/1254,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1254,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/f37b6a1f0d343c567a08549af81ed269",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/87",
+            "type": "Canvas",
+            "height": 3224,
+            "width": 1970,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/87/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/87/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/87",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/6d747b0d135c5be316eedef878e11a0f/full/1222,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1222,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/6d747b0d135c5be316eedef878e11a0f",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/88",
+            "type": "Canvas",
+            "height": 3224,
+            "width": 2057,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/88/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/88/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/88",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/fc1047b68df59e3ebc9157ffa547ebcd/full/1276,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1276,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/fc1047b68df59e3ebc9157ffa547ebcd",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/89",
+            "type": "Canvas",
+            "height": 3224,
+            "width": 1872,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/89/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/89/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/89",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/254e789b5cac7ab85b5ac325b51ba1ab/full/1161,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1161,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/254e789b5cac7ab85b5ac325b51ba1ab",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/90",
+            "type": "Canvas",
+            "height": 3224,
+            "width": 2039,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/90/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/90/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/90",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/e16d35ba7ca401dbda2bf493e34d9ea3/full/1265,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1265,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/e16d35ba7ca401dbda2bf493e34d9ea3",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/91",
+            "type": "Canvas",
+            "height": 3224,
+            "width": 1965,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/91/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/91/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/91",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/4133b7cde6485731cc84b514a084a217/full/1219,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1219,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/4133b7cde6485731cc84b514a084a217",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/92",
+            "type": "Canvas",
+            "height": 3224,
+            "width": 2046,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/92/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/92/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/92",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/4e02772830fe84dda929cbae5a8a04ac/full/1269,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1269,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/4e02772830fe84dda929cbae5a8a04ac",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/93",
+            "type": "Canvas",
+            "height": 3224,
+            "width": 1970,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/93/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/93/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/93",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/00e0512ac97050ccd66a8ec66eebd5f4/full/1222,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1222,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/00e0512ac97050ccd66a8ec66eebd5f4",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/94",
+            "type": "Canvas",
+            "height": 3224,
+            "width": 2033,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/94/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/94/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/94",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/a577406ebd2fc49ed0691eb35dc73068/full/1261,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1261,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/a577406ebd2fc49ed0691eb35dc73068",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/95",
+            "type": "Canvas",
+            "height": 3224,
+            "width": 1995,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/95/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/95/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/95",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/b94780abdaf1fd135e6aa09f7a4f667a/full/1238,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1238,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/b94780abdaf1fd135e6aa09f7a4f667a",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/96",
+            "type": "Canvas",
+            "height": 3224,
+            "width": 2028,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/96/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/96/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/96",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/bf0f100243260c4f71fce715cb22700f/full/1258,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1258,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/bf0f100243260c4f71fce715cb22700f",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/97",
+            "type": "Canvas",
+            "height": 3182,
+            "width": 1969,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/97/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/97/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/97",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/86950bc91e2c06ef511af40111c44742/full/1238,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1238,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/86950bc91e2c06ef511af40111c44742",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/98",
+            "type": "Canvas",
+            "height": 3182,
+            "width": 2074,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/98/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/98/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/98",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/ee8cb379d2f31e091f57811b59f6bf74/full/1304,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1304,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/ee8cb379d2f31e091f57811b59f6bf74",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/99",
+            "type": "Canvas",
+            "height": 3194,
+            "width": 1969,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/99/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/99/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/99",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/e20dbf43c973879c64db594a94709335/full/1233,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1233,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/e20dbf43c973879c64db594a94709335",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/100",
+            "type": "Canvas",
+            "height": 3194,
+            "width": 1887,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/100/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/100/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/100",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/b1ca207843bc563b72464717ba3a8067/full/1182,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1182,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/b1ca207843bc563b72464717ba3a8067",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/101",
+            "type": "Canvas",
+            "height": 3178,
+            "width": 1959,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/101/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/101/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/101",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/636ab11b65548c182883fbf3bc4536a8/full/1233,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1233,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/636ab11b65548c182883fbf3bc4536a8",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/102",
+            "type": "Canvas",
+            "height": 3149,
+            "width": 1890,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/102/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/102/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/102",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/17d46b71b976271e9bf363f973933e57/full/1200,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1200,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/17d46b71b976271e9bf363f973933e57",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/103",
+            "type": "Canvas",
+            "height": 3166,
+            "width": 1955,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/103/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/103/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/103",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/ea9d2df387e759a1f4282f7501d160db/full/1235,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1235,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/ea9d2df387e759a1f4282f7501d160db",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/104",
+            "type": "Canvas",
+            "height": 3166,
+            "width": 1881,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/104/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/104/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/104",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/4401c5ef03b26eff8d206aeea93913ef/full/1188,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1188,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/4401c5ef03b26eff8d206aeea93913ef",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/105",
+            "type": "Canvas",
+            "height": 3176,
+            "width": 1960,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/105/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/105/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/105",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/752580f41d84e7269f7a81b0b301c711/full/1234,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1234,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/752580f41d84e7269f7a81b0b301c711",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/106",
+            "type": "Canvas",
+            "height": 3176,
+            "width": 1902,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/106/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/106/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/106",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/0a4aeded89b623758842b17c57d23206/full/1198,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1198,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/0a4aeded89b623758842b17c57d23206",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/107",
+            "type": "Canvas",
+            "height": 3168,
+            "width": 1961,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/107/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/107/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/107",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/028a72706c78f303f0651149f5f6e97d/full/1238,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1238,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/028a72706c78f303f0651149f5f6e97d",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/108",
+            "type": "Canvas",
+            "height": 3168,
+            "width": 1902,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/108/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/108/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/108",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/0367a98051dd5ea7d75e06681455d5de/full/1201,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1201,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/0367a98051dd5ea7d75e06681455d5de",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/109",
+            "type": "Canvas",
+            "height": 3158,
+            "width": 1968,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/109/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/109/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/109",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/4ccf4ebab10d25e5c36b3a1d175823fd/full/1246,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1246,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/4ccf4ebab10d25e5c36b3a1d175823fd",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/110",
+            "type": "Canvas",
+            "height": 3158,
+            "width": 1892,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/110/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/110/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/110",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/221407cdb1b6f4ab6ff10c75729c3917/full/1198,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1198,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/221407cdb1b6f4ab6ff10c75729c3917",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/111",
+            "type": "Canvas",
+            "height": 3150,
+            "width": 1958,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/111/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/111/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/111",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/9bf8dfd42a515c99382d96ec5f32830c/full/1243,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1243,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/9bf8dfd42a515c99382d96ec5f32830c",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/112",
+            "type": "Canvas",
+            "height": 3150,
+            "width": 1897,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/112/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/112/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/112",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/87e7c7b82f6ac751d07648701c4fe671/full/1204,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1204,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/87e7c7b82f6ac751d07648701c4fe671",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/113",
+            "type": "Canvas",
+            "height": 3142,
+            "width": 1958,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/113/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/113/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/113",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/420aca01b8d0957a640c2aeb046e1558/full/1246,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1246,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/420aca01b8d0957a640c2aeb046e1558",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/114",
+            "type": "Canvas",
+            "height": 3142,
+            "width": 1895,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/114/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/114/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/114",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/a4f165cc4291fe8f94eeb7f179fc4a7b/full/1206,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1206,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/a4f165cc4291fe8f94eeb7f179fc4a7b",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/115",
+            "type": "Canvas",
+            "height": 3120,
+            "width": 1939,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/115/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/115/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/115",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/87d7439d9e98e0d3f6efc452a4a0bc4d/full/1243,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1243,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/87d7439d9e98e0d3f6efc452a4a0bc4d",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/116",
+            "type": "Canvas",
+            "height": 3120,
+            "width": 1861,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/116/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/116/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/116",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/ad33049b53dd3080c82abb9dd2372686/full/1193,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1193,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/ad33049b53dd3080c82abb9dd2372686",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/117",
+            "type": "Canvas",
+            "height": 3018,
+            "width": 2043,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/117/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/117/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cx02.046.a1-3/canvas/117",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cx02.046.a1-3/2839da1423060f5177530814c92b38af/full/1354,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1354,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cx02.046.a1-3/2839da1423060f5177530814c92b38af",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

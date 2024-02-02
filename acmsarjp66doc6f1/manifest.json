@@ -1,0 +1,104 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://iiif.tiju.ca/acmsarjp66doc6f1/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Os Misteriosos Amigos da Cidade"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "José Mariano Filho"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1946?"
+                ]
+            }
+        }
+    ],
+    "requiredStatement": {
+        "label": "Attribution",
+        "value": "Provided by Museus Castro Maya"
+    },
+    "thumbnail": [
+        {
+            "id": "https://iiif.tiju.ca/acmsarjp66doc6f1/3e7d1ee4bd67fc8ba291ff810fffd181/full/212,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 212
+        }
+    ],
+    "items": [
+        {
+            "id": "https://iiif.tiju.ca/acmsarjp66doc6f1/canvas/1",
+            "type": "Canvas",
+            "height": 2659,
+            "width": 1883,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/acmsarjp66doc6f1/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/acmsarjp66doc6f1/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/acmsarjp66doc6f1/canvas/1",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/acmsarjp66doc6f1/3e7d1ee4bd67fc8ba291ff810fffd181/full/1416,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1416,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/acmsarjp66doc6f1/3e7d1ee4bd67fc8ba291ff810fffd181",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://iiif.tiju.ca/acmsarjp66doc6f1/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/acmsarjp66doc6f1/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://iiif.tiju.ca/acmsarjp66doc6f1/canvas/1",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Os Misteriosos Amigos da Cidade</p><p></p><p>Pouco tempo depois do prefeito Henrique Dodsworth tomar conta da Prefeitura, por iniciativa dele (creio eu), fundou-se uma sociedade que se intitulava de “Amigos da Cidade\". Essa sociedade, composta de amigos íntimos do prefeito, tinha como presidente o sr. Otávio Guinle (o homem do Brocoió), sendo vice-presidente ou coisa que o valha o sr. Raimundo de Castro Maia. Tive a honra de ser convidado para membro dessa sociedade recreativa, mas me excusei, porque eu não podia ter dúvidas sobre as finalidades por ela visadas. De fato, durante sua inutil e obscura existência, ela, que se propunha a defender os interesses da Cidade, não deu sinal de vida. Jamais saiu de seu obstinado mutismo para sugerir o que quer que fosse. Derrubaram-se igrejas veneradas, multilavam-se parques majestosos, realizaram-se obras suntuárias, patifarias de toda sorte enxovalharam a administração do politicoide sem escrupulos que dirigia a Prefeitura e tudo isso se passou em branca nuvem, sem que a Sociedade de Amigos da Cidade desse um ar de sua graça. Entrementes seu presidente, o sr. Otávio Guinle, conseguia impingir a Prefeitura uma ilha sem água, por um preço de escacha pessegueiro, como dizem os portugueses. Quanto ao sr. Raimundo Castro Maia, outra figura de prôa da tal sociedade de surdos-mudos, coube-lhe a investidura de zelar pelas florestas da Cidade, pertencentes na época ao Ministério da Agricultura. Esse senhor, que entende tanto de florestas quanto eu entendo de aeronáutica, não chegou a possuir um título normal de nomeação, mas em compensação dispoz largamente de recursos materiais para abrir estradas derrubando árvores centenárias, contriuiu fossas a montante dos manaciais, tirou os cipós das árvores, e contruiu portões como se de fato aquelas terras lhe pertencessem. Os conflitos com o Serviço Florestal foram tão numerosos e graves que o prefeito para “matar” a questão conseguiu que a as florestas da Cidade passassem a ser jurificionadas pela Prefeitura. Sobre esse assunto terei muito a dizer, estribado em correspondência oficial.</p><p></p><p>Pela tribuna do Rotary Clube, única que me restava durante os negros dias da ditadura pedi aos fundadores da Sociedade dos \"Amigos da Cidade” que a dissolve para que uma outra se tornasse disposta à cumprir o programa esquecido. Mas qual! Ao prefeito convinha manter o beco entopido.</p><p></p><p>Ora, pelo que dizem os jornais, o prefeito Filadelfo Azevedo acaba de criar uma nova sociedade com o nome da outra. Mas desta vez seus nomes foram escolhidos. O prefeito arrogou-se o direito de condecorar com o nome de “Amigos da Cidade” várias pessoas de boa vontate, e perfeitamente dignas, mas que jamais se preocuparam com os assuntos urbanos. Foram esquecidos Humberto Gotuzzo, Everardo Backeusen e muitos outros. Eu não posso me queixas, porque recebi uma condecoração tão alta, que os novos Amigos da Cidade se sentiriam vexados com a minha presença…</p><p></p><p>Dentre as prerrogativas do prefeito Filadelfio Azevedo (ou qualquer outra) não me consta existir a de dizer quais são os Amigos da Cidade.</p><p></p><p>Esses, muito raros, aliás, foram aqueles que se insurgiram contra os atos de prepotência dos prefeitos, que fizeram inimigos, que sofreram deboches e ataques, dos algozes dos prefeitos, que procuraram corrigir os desmandos de toda sorte que degradaram a Cidade. Mas mesmo que o prefeito Filadelfo de Azevedo tivesse o necessário tato de escolher uma comissão de verdadeiros amigos da Cidade, essa comissão precisaria possuir a necessária autonomia para se reunir e deliberar cada vez que julgasse necessário.</p><p></p><p>A Sociedade “Amigos de São Paulo”, atualmente dirigida pelo urbanista Luiz Anhaia colabora com o governo municipal, discute com os maiorais do urbanismo oficial, defende seus pontos de vista. Prestes Maia, o grande prefeito de São Paulo, tomou dezenas de vezes parte nos debates daquela sociedade, como sócio que é, e dos mais ilustres.</p><p></p><p>À sociedade recem-criada falta o direito de se pronunciar sobre os casos em debate. Ela será convocada pelo prefeito. Só ele pode julgar a conveniência de ouvir ou não ouvir a sociedade. E se ela se convocar espontaneamente para tratar de um caso sujo como esse do Tunel Carioca, o prefeito poderá dissolve-la. Em materia de Sociedade dos “Amigos da Cidade\", é o caso de dizer como os franceses: plus ça change, plus c’est la même chose…</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

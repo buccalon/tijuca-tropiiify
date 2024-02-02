@@ -1,0 +1,165 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://iiif.tiju.ca/br_rjanrio_ta_0_0_0018/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Ofício de Francisco José de Freitas a Manuel Gomes Archer ordenando que os africanos Eleutério e Constantino se apresentassem ao inspetor-geral das Obras Públicas"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Francisco José de Freitas"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1866-01-14"
+                ]
+            }
+        }
+    ],
+    "requiredStatement": {
+        "label": "Attribution",
+        "value": "Provided by Arquivo Nacional"
+    },
+    "rights": "Public Domain",
+    "thumbnail": [
+        {
+            "id": "https://iiif.tiju.ca/br_rjanrio_ta_0_0_0018/a35de5d975cf5a0e8927de9d3a2abc41/full/233,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 233
+        }
+    ],
+    "items": [
+        {
+            "id": "https://iiif.tiju.ca/br_rjanrio_ta_0_0_0018/canvas/1",
+            "type": "Canvas",
+            "height": 3784,
+            "width": 2936,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/br_rjanrio_ta_0_0_0018/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/br_rjanrio_ta_0_0_0018/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/br_rjanrio_ta_0_0_0018/canvas/1",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/br_rjanrio_ta_0_0_0018/a35de5d975cf5a0e8927de9d3a2abc41/full/1552,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1552,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/br_rjanrio_ta_0_0_0018/a35de5d975cf5a0e8927de9d3a2abc41",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://iiif.tiju.ca/br_rjanrio_ta_0_0_0018/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/br_rjanrio_ta_0_0_0018/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://iiif.tiju.ca/br_rjanrio_ta_0_0_0018/canvas/1#xywh=333,312,2246,248",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>3º Distrito da Inspeção Geral das Obras Públicas em 14 de Janeiro de 1866</p>"
+                            }
+                        },
+                        {
+                            "id": "https://iiif.tiju.ca/br_rjanrio_ta_0_0_0018/canvas/1/annopage-2/anno-2",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://iiif.tiju.ca/br_rjanrio_ta_0_0_0018/canvas/1#xywh=1787,614,537,161",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": {
+                                    "x": 1787,
+                                    "y": 614,
+                                    "width": 537,
+                                    "height": 161
+                                }
+                            }
+                        },
+                        {
+                            "id": "https://iiif.tiju.ca/br_rjanrio_ta_0_0_0018/canvas/1/annopage-2/anno-3",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://iiif.tiju.ca/br_rjanrio_ta_0_0_0018/canvas/1#xywh=538,945,2071,757",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Queria dar cumprimento a que a determina no incluso officio, 4, na devolução feando hoje mesmo dever os Affricanos Eleuterio e Constantico com todo o seu trem afim de amanhã pela manhã desse e apresentavam-se as Ins Inspector.</p>"
+                            }
+                        },
+                        {
+                            "id": "https://iiif.tiju.ca/br_rjanrio_ta_0_0_0018/canvas/1/annopage-2/anno-4",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://iiif.tiju.ca/br_rjanrio_ta_0_0_0018/canvas/1#xywh=1165,1722,1284,184",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Deus garde a nação</p>"
+                            }
+                        },
+                        {
+                            "id": "https://iiif.tiju.ca/br_rjanrio_ta_0_0_0018/canvas/1/annopage-2/anno-5",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://iiif.tiju.ca/br_rjanrio_ta_0_0_0018/canvas/1#xywh=551,1911,1986,242",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Francisco José de Freitas, Engenheiro do 3º Distrito</p>"
+                            }
+                        },
+                        {
+                            "id": "https://iiif.tiju.ca/br_rjanrio_ta_0_0_0018/canvas/1/annopage-2/anno-6",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://iiif.tiju.ca/br_rjanrio_ta_0_0_0018/canvas/1#xywh=444,2176,2124,282",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Major Manuel Gomes Archer</p><p>Administrador da Floresta da Tijuca</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://iiif.tiju.ca/acmsarjp66doc10f1/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Carta ao Chefe de Polícia"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Joaquim Ribeiro"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1941-05-04"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Letter"
+                ]
+            }
+        }
+    ],
+    "requiredStatement": {
+        "label": "Attribution",
+        "value": "Provided by Museus Castro Maya"
+    },
+    "thumbnail": [
+        {
+            "id": "https://iiif.tiju.ca/acmsarjp66doc10f1/95410a922179f7a492566b6d1225fa4c/full/232,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 232
+        }
+    ],
+    "items": [
+        {
+            "id": "https://iiif.tiju.ca/acmsarjp66doc10f1/canvas/1",
+            "type": "Canvas",
+            "height": 2489,
+            "width": 1930,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/acmsarjp66doc10f1/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/acmsarjp66doc10f1/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/acmsarjp66doc10f1/canvas/1",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/acmsarjp66doc10f1/95410a922179f7a492566b6d1225fa4c/full/1551,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1551,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/acmsarjp66doc10f1/95410a922179f7a492566b6d1225fa4c",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://iiif.tiju.ca/acmsarjp66doc10f1/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/acmsarjp66doc10f1/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://iiif.tiju.ca/acmsarjp66doc10f1/canvas/1",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>Exmo. Snr. Chefe de Polícia do Distrito Federal</p><p></p><p>A Comissão de Pesquizas Populares desta Sociedade, aplaudindo a patriótica campanha de V.Ex. destinada a extinguir, nesta Capital, a prática de falsas religiões, toma a liberdade de sugerir a V.Ex. que o material recolhido pela polícia deverá ficar, como significativo marco desse saneamento moral, classificado num Museu etnográfico.</p><p></p><p>É, aliás, intento desta Sociedade organiza-lo e, como passo inicial desse plano, será realizada em Junho próximo, nesta Capital, uma Exposição de Objetos Populares.</p><p></p><p>Justamente para isso esta Comissão vem pleitear, junto a V.Ex., a cessão dos objetos que a polícia achar conveniente que sejam expostos.</p><p></p><p>Assim como nos Museus de todo mundo civilizado se expõe a documentação a mais rudimentar dos povos primitivos, não será estranho que o material apreendido seja exposto como atestado do baixo nível cultural dos que se entregam a semelhantes práticas.</p><p></p><p>Sem mais, fazendo votos pela saúde pessoal de V.Ex., subscrevo-me, com muito apreço,</p><p></p><p>Joaquim Ribeiro — presidente da Comissão</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/acmsarjp66doc10f1/canvas/2",
+            "type": "Canvas",
+            "height": 2500,
+            "width": 1932,
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/acmsarjp66doc10f1/canvas/2/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/acmsarjp66doc10f1/canvas/2/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/acmsarjp66doc10f1/canvas/2",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/acmsarjp66doc10f1/5c8620e34bef4a73eab08465555b094f/full/1546,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1546,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/acmsarjp66doc10f1/5c8620e34bef4a73eab08465555b094f",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
