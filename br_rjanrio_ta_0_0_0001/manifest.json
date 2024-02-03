@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://iiif.tiju.ca/br_rjanrio_ta_0_0_0001/manifest.json",
+    "id": "https://buccalon.github.io/tijuca-tropiiify/br_rjanrio_ta_0_0_0001/manifest.json",
     "type": "Manifest",
     "label": {
         "none": [
@@ -40,29 +40,29 @@
     "rights": "Public Domain",
     "thumbnail": [
         {
-            "id": "https://iiif.tiju.ca/br_rjanrio_ta_0_0_0001/597ebe0580886ce851afc6a582a92a5c/full/undefined,undefined/0/default.pdf",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/br_rjanrio_ta_0_0_0001/597ebe0580886ce851afc6a582a92a5c/full/undefined,undefined/0/default.pdf",
             "type": "Image",
             "format": "application/pdf"
         }
     ],
     "items": [
         {
-            "id": "https://iiif.tiju.ca/br_rjanrio_ta_0_0_0001/canvas/1",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/br_rjanrio_ta_0_0_0001/canvas/1",
             "type": "Canvas",
             "height": 3832,
             "width": 2936,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/br_rjanrio_ta_0_0_0001/canvas/1/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/br_rjanrio_ta_0_0_0001/canvas/1/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/br_rjanrio_ta_0_0_0001/canvas/1/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/br_rjanrio_ta_0_0_0001/canvas/1/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/br_rjanrio_ta_0_0_0001/canvas/1",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/br_rjanrio_ta_0_0_0001/canvas/1",
                             "body": {
-                                "id": "https://iiif.tiju.ca/br_rjanrio_ta_0_0_0001/597ebe0580886ce851afc6a582a92a5c/full/undefined,undefined/0/default.pdf",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/br_rjanrio_ta_0_0_0001/597ebe0580886ce851afc6a582a92a5c/full/undefined,undefined/0/default.pdf",
                                 "type": "Image",
                                 "format": "application/pdf"
                             }

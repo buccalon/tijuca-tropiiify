@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/3/context.json",
-  "id": "https://iiif.tiju.ca/02.267.597-8/6e9e67e0f48c81e8e407ee1b58e5c0ba",
+  "id": "https://buccalon.github.io/tijuca-tropiiify/02.267.597-8/6e9e67e0f48c81e8e407ee1b58e5c0ba",
   "type": "ImageService3",
   "profile": "level0",
   "protocol": "http://iiif.io/api/image",

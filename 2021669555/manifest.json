@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://iiif.tiju.ca/2021669555/manifest.json",
+    "id": "https://buccalon.github.io/tijuca-tropiiify/2021669555/manifest.json",
     "type": "Manifest",
     "label": {
         "none": [
@@ -45,7 +45,7 @@
     "rights": "Provided by the Library of Congress",
     "thumbnail": [
         {
-            "id": "https://iiif.tiju.ca/2021669555/54a623a4587e19c9ac140865e9b3b6da/full/300,256/0/default.jpg",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/2021669555/54a623a4587e19c9ac140865e9b3b6da/full/300,256/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "height": 256,
@@ -54,29 +54,29 @@
     ],
     "items": [
         {
-            "id": "https://iiif.tiju.ca/2021669555/canvas/1",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/2021669555/canvas/1",
             "type": "Canvas",
             "height": 8656,
             "width": 10144,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/2021669555/canvas/1/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/2021669555/canvas/1/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/2021669555/canvas/1/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/2021669555/canvas/1/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/2021669555/canvas/1",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/2021669555/canvas/1",
                             "body": {
-                                "id": "https://iiif.tiju.ca/2021669555/54a623a4587e19c9ac140865e9b3b6da/full/2000,1707/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/2021669555/54a623a4587e19c9ac140865e9b3b6da/full/2000,1707/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 1707,
                                 "width": 2000,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/2021669555/54a623a4587e19c9ac140865e9b3b6da",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/2021669555/54a623a4587e19c9ac140865e9b3b6da",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }

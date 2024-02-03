@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://iiif.tiju.ca/00.559.931-3/manifest.json",
+    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/manifest.json",
     "type": "Manifest",
     "label": {
         "none": [
@@ -52,7 +52,7 @@
     "rights": "Public Domain",
     "thumbnail": [
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/3e6d85c39b7f35e6d602d8fcd46b355f/full/212,300/0/default.jpg",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/3e6d85c39b7f35e6d602d8fcd46b355f/full/212,300/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "height": 300,
@@ -61,29 +61,29 @@
     ],
     "items": [
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/1",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/1",
             "type": "Canvas",
             "height": 2993,
             "width": 2117,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/1/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/1/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/1/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/1/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/1",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/1",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/3e6d85c39b7f35e6d602d8fcd46b355f/full/1415,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/3e6d85c39b7f35e6d602d8fcd46b355f/full/1415,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1415,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/3e6d85c39b7f35e6d602d8fcd46b355f",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/3e6d85c39b7f35e6d602d8fcd46b355f",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -95,29 +95,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/2",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/2",
             "type": "Canvas",
             "height": 2970,
             "width": 2042,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/2/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/2/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/2/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/2/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/2",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/2",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/93292760df97f01e15e11cd39b50a56f/full/1375,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/93292760df97f01e15e11cd39b50a56f/full/1375,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1375,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/93292760df97f01e15e11cd39b50a56f",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/93292760df97f01e15e11cd39b50a56f",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -129,29 +129,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/3",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/3",
             "type": "Canvas",
             "height": 3103,
             "width": 1786,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/3/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/3/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/3/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/3/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/3",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/3",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/dd2b954a50fc18bd2da4b497c3928553/full/1151,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/dd2b954a50fc18bd2da4b497c3928553/full/1151,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1151,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/dd2b954a50fc18bd2da4b497c3928553",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/dd2b954a50fc18bd2da4b497c3928553",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -163,29 +163,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/4",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/4",
             "type": "Canvas",
             "height": 3103,
             "width": 1951,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/4/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/4/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/4/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/4/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/4",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/4",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/d8b552ae902ff76abeedf4dd8761f202/full/1257,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/d8b552ae902ff76abeedf4dd8761f202/full/1257,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1257,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/d8b552ae902ff76abeedf4dd8761f202",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/d8b552ae902ff76abeedf4dd8761f202",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -197,29 +197,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/5",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/5",
             "type": "Canvas",
             "height": 3077,
             "width": 1837,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/5/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/5/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/5/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/5/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/5",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/5",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/0cb5ca30ee45cedb54f22cf97bb4f50d/full/1194,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/0cb5ca30ee45cedb54f22cf97bb4f50d/full/1194,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1194,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/0cb5ca30ee45cedb54f22cf97bb4f50d",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/0cb5ca30ee45cedb54f22cf97bb4f50d",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -231,29 +231,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/6",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/6",
             "type": "Canvas",
             "height": 3077,
             "width": 1932,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/6/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/6/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/6/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/6/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/6",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/6",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/77d35b8a271e1f186a342f81f2a01765/full/1256,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/77d35b8a271e1f186a342f81f2a01765/full/1256,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1256,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/77d35b8a271e1f186a342f81f2a01765",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/77d35b8a271e1f186a342f81f2a01765",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -265,29 +265,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/7",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/7",
             "type": "Canvas",
             "height": 3060,
             "width": 1827,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/7/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/7/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/7/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/7/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/7",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/7",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/b5026936ee12729bc58202be6617540c/full/1194,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/b5026936ee12729bc58202be6617540c/full/1194,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1194,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/b5026936ee12729bc58202be6617540c",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/b5026936ee12729bc58202be6617540c",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -299,29 +299,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/8",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/8",
             "type": "Canvas",
             "height": 3060,
             "width": 1918,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/8/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/8/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/8/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/8/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/8",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/8",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/989fbcec26a75f27eb3da479d98314e6/full/1254,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/989fbcec26a75f27eb3da479d98314e6/full/1254,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1254,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/989fbcec26a75f27eb3da479d98314e6",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/989fbcec26a75f27eb3da479d98314e6",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -333,29 +333,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/9",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/9",
             "type": "Canvas",
             "height": 3071,
             "width": 1843,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/9/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/9/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/9/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/9/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/9",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/9",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/39ef57e3c88d624fdb5aac38d762ed9a/full/1200,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/39ef57e3c88d624fdb5aac38d762ed9a/full/1200,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1200,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/39ef57e3c88d624fdb5aac38d762ed9a",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/39ef57e3c88d624fdb5aac38d762ed9a",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -367,29 +367,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/10",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/10",
             "type": "Canvas",
             "height": 3071,
             "width": 1923,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/10/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/10/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/10/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/10/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/10",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/10",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/5bb73df94f935445fd716f7df2463792/full/1252,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/5bb73df94f935445fd716f7df2463792/full/1252,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1252,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/5bb73df94f935445fd716f7df2463792",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/5bb73df94f935445fd716f7df2463792",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -401,29 +401,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/11",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/11",
             "type": "Canvas",
             "height": 3068,
             "width": 1842,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/11/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/11/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/11/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/11/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/11",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/11",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/fc35d390138106549066a4aa0f2092a8/full/1201,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/fc35d390138106549066a4aa0f2092a8/full/1201,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1201,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/fc35d390138106549066a4aa0f2092a8",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/fc35d390138106549066a4aa0f2092a8",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -435,29 +435,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/12",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/12",
             "type": "Canvas",
             "height": 3068,
             "width": 1925,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/12/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/12/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/12/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/12/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/12",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/12",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/21f05f5b16176a089c2c9fd72b001919/full/1255,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/21f05f5b16176a089c2c9fd72b001919/full/1255,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1255,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/21f05f5b16176a089c2c9fd72b001919",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/21f05f5b16176a089c2c9fd72b001919",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -469,29 +469,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/13",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/13",
             "type": "Canvas",
             "height": 3069,
             "width": 1846,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/13/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/13/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/13/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/13/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/13",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/13",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/efa0efc84dfb40fa7661da3c664c41dd/full/1203,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/efa0efc84dfb40fa7661da3c664c41dd/full/1203,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1203,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/efa0efc84dfb40fa7661da3c664c41dd",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/efa0efc84dfb40fa7661da3c664c41dd",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -503,29 +503,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/14",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/14",
             "type": "Canvas",
             "height": 3069,
             "width": 1929,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/14/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/14/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/14/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/14/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/14",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/14",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/6c01bc396bd918000459c06748ebaa78/full/1257,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/6c01bc396bd918000459c06748ebaa78/full/1257,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1257,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/6c01bc396bd918000459c06748ebaa78",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/6c01bc396bd918000459c06748ebaa78",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -537,29 +537,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/15",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/15",
             "type": "Canvas",
             "height": 3073,
             "width": 1855,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/15/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/15/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/15/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/15/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/15",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/15",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/6cbcf293a2a24420091ac50f4c4c98dc/full/1207,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/6cbcf293a2a24420091ac50f4c4c98dc/full/1207,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1207,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/6cbcf293a2a24420091ac50f4c4c98dc",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/6cbcf293a2a24420091ac50f4c4c98dc",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -571,29 +571,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/16",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/16",
             "type": "Canvas",
             "height": 3073,
             "width": 1923,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/16/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/16/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/16/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/16/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/16",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/16",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/3f6f96ec3ec4f0123348fb864be2d2cb/full/1252,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/3f6f96ec3ec4f0123348fb864be2d2cb/full/1252,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1252,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/3f6f96ec3ec4f0123348fb864be2d2cb",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/3f6f96ec3ec4f0123348fb864be2d2cb",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -605,29 +605,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/17",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/17",
             "type": "Canvas",
             "height": 3087,
             "width": 1859,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/17/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/17/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/17/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/17/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/17",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/17",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/4b71dd81d8ac742729d646fcd5f3e575/full/1204,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/4b71dd81d8ac742729d646fcd5f3e575/full/1204,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1204,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/4b71dd81d8ac742729d646fcd5f3e575",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/4b71dd81d8ac742729d646fcd5f3e575",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -639,29 +639,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/18",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/18",
             "type": "Canvas",
             "height": 3087,
             "width": 1931,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/18/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/18/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/18/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/18/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/18",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/18",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/9ef909b0eca7e6fce9bbb5764fda841b/full/1251,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/9ef909b0eca7e6fce9bbb5764fda841b/full/1251,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1251,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/9ef909b0eca7e6fce9bbb5764fda841b",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/9ef909b0eca7e6fce9bbb5764fda841b",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -673,29 +673,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/19",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/19",
             "type": "Canvas",
             "height": 3098,
             "width": 1871,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/19/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/19/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/19/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/19/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/19",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/19",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/b6c8f6d89f9e842826e4e4ce7dfa4667/full/1208,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/b6c8f6d89f9e842826e4e4ce7dfa4667/full/1208,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1208,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/b6c8f6d89f9e842826e4e4ce7dfa4667",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/b6c8f6d89f9e842826e4e4ce7dfa4667",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -707,29 +707,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/20",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/20",
             "type": "Canvas",
             "height": 3098,
             "width": 1938,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/20/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/20/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/20/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/20/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/20",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/20",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/d9a119323d5c7527f8c4dea69dc25564/full/1251,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/d9a119323d5c7527f8c4dea69dc25564/full/1251,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1251,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/d9a119323d5c7527f8c4dea69dc25564",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/d9a119323d5c7527f8c4dea69dc25564",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -741,29 +741,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/21",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/21",
             "type": "Canvas",
             "height": 3164,
             "width": 1953,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/21/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/21/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/21/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/21/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/21",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/21",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/1e1a8281f6ab58d235745ae3877b5fee/full/1235,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/1e1a8281f6ab58d235745ae3877b5fee/full/1235,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1235,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/1e1a8281f6ab58d235745ae3877b5fee",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/1e1a8281f6ab58d235745ae3877b5fee",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -775,29 +775,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/22",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/22",
             "type": "Canvas",
             "height": 3164,
             "width": 2042,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/22/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/22/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/22/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/22/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/22",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/22",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/725e8361d5e3ff32e52d439ff5f89415/full/1291,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/725e8361d5e3ff32e52d439ff5f89415/full/1291,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1291,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/725e8361d5e3ff32e52d439ff5f89415",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/725e8361d5e3ff32e52d439ff5f89415",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -809,29 +809,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/23",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/23",
             "type": "Canvas",
             "height": 3086,
             "width": 1864,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/23/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/23/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/23/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/23/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/23",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/23",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/c8ef8898f17dae456840683dd6d054cf/full/1208,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/c8ef8898f17dae456840683dd6d054cf/full/1208,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1208,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/c8ef8898f17dae456840683dd6d054cf",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/c8ef8898f17dae456840683dd6d054cf",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -843,29 +843,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/24",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/24",
             "type": "Canvas",
             "height": 3086,
             "width": 1950,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/24/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/24/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/24/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/24/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/24",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/24",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/38a01cf45fd4d4a5114379933a931c65/full/1264,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/38a01cf45fd4d4a5114379933a931c65/full/1264,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1264,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/38a01cf45fd4d4a5114379933a931c65",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/38a01cf45fd4d4a5114379933a931c65",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -877,29 +877,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/25",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/25",
             "type": "Canvas",
             "height": 3083,
             "width": 1865,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/25/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/25/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/25/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/25/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/25",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/25",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/7dae7e1e60a870b9a41657f0b1a537a6/full/1210,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/7dae7e1e60a870b9a41657f0b1a537a6/full/1210,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1210,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/7dae7e1e60a870b9a41657f0b1a537a6",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/7dae7e1e60a870b9a41657f0b1a537a6",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -911,29 +911,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/26",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/26",
             "type": "Canvas",
             "height": 3083,
             "width": 1934,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/26/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/26/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/26/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/26/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/26",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/26",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/a6db801eaaee88f6d0c53b91b8416f69/full/1255,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/a6db801eaaee88f6d0c53b91b8416f69/full/1255,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1255,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/a6db801eaaee88f6d0c53b91b8416f69",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/a6db801eaaee88f6d0c53b91b8416f69",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -945,29 +945,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/27",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/27",
             "type": "Canvas",
             "height": 3096,
             "width": 1860,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/27/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/27/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/27/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/27/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/27",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/27",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/93d4e15e8d1c917941c581000bbb2578/full/1202,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/93d4e15e8d1c917941c581000bbb2578/full/1202,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1202,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/93d4e15e8d1c917941c581000bbb2578",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/93d4e15e8d1c917941c581000bbb2578",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -979,29 +979,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/28",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/28",
             "type": "Canvas",
             "height": 3096,
             "width": 1963,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/28/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/28/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/28/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/28/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/28",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/28",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/f3ca6d3b6a7ef19282bd1078c2f7ac5e/full/1268,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/f3ca6d3b6a7ef19282bd1078c2f7ac5e/full/1268,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1268,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/f3ca6d3b6a7ef19282bd1078c2f7ac5e",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/f3ca6d3b6a7ef19282bd1078c2f7ac5e",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -1013,29 +1013,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/29",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/29",
             "type": "Canvas",
             "height": 3093,
             "width": 1870,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/29/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/29/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/29/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/29/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/29",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/29",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/3f45536faf51cb1972fe88d1aa288c59/full/1209,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/3f45536faf51cb1972fe88d1aa288c59/full/1209,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1209,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/3f45536faf51cb1972fe88d1aa288c59",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/3f45536faf51cb1972fe88d1aa288c59",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -1047,29 +1047,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/30",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/30",
             "type": "Canvas",
             "height": 3093,
             "width": 1946,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/30/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/30/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/30/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/30/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/30",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/30",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/0fc29f3aad0dc20eb1302630efb87656/full/1258,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/0fc29f3aad0dc20eb1302630efb87656/full/1258,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1258,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/0fc29f3aad0dc20eb1302630efb87656",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/0fc29f3aad0dc20eb1302630efb87656",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -1081,29 +1081,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/31",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/31",
             "type": "Canvas",
             "height": 3092,
             "width": 1875,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/31/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/31/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/31/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/31/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/31",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/31",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/226830f1336977dd16b3f0c9173bbbb3/full/1213,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/226830f1336977dd16b3f0c9173bbbb3/full/1213,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1213,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/226830f1336977dd16b3f0c9173bbbb3",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/226830f1336977dd16b3f0c9173bbbb3",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -1115,29 +1115,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/32",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/32",
             "type": "Canvas",
             "height": 3092,
             "width": 1926,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/32/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/32/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/32/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/32/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/32",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/32",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/b6b821d68ac90d49438052a9bf5892f2/full/1246,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/b6b821d68ac90d49438052a9bf5892f2/full/1246,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1246,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/b6b821d68ac90d49438052a9bf5892f2",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/b6b821d68ac90d49438052a9bf5892f2",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -1149,29 +1149,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/33",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/33",
             "type": "Canvas",
             "height": 3093,
             "width": 1871,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/33/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/33/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/33/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/33/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/33",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/33",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/f7883ed7ae89839b876b32496957c3ed/full/1210,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/f7883ed7ae89839b876b32496957c3ed/full/1210,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1210,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/f7883ed7ae89839b876b32496957c3ed",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/f7883ed7ae89839b876b32496957c3ed",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -1183,29 +1183,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/34",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/34",
             "type": "Canvas",
             "height": 3093,
             "width": 1947,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/34/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/34/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/34/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/34/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/34",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/34",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/e318a6d6669d8b2cd8a8eedaeaa696f4/full/1259,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/e318a6d6669d8b2cd8a8eedaeaa696f4/full/1259,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1259,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/e318a6d6669d8b2cd8a8eedaeaa696f4",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/e318a6d6669d8b2cd8a8eedaeaa696f4",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -1217,29 +1217,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/35",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/35",
             "type": "Canvas",
             "height": 3166,
             "width": 1876,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/35/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/35/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/35/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/35/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/35",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/35",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/c88c4b8ba71cce06ab40fe949bff1673/full/1185,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/c88c4b8ba71cce06ab40fe949bff1673/full/1185,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1185,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/c88c4b8ba71cce06ab40fe949bff1673",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/c88c4b8ba71cce06ab40fe949bff1673",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -1251,29 +1251,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/36",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/36",
             "type": "Canvas",
             "height": 3166,
             "width": 1978,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/36/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/36/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/36/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/36/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/36",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/36",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/953517fda9bdd547bd17f64a46865108/full/1250,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/953517fda9bdd547bd17f64a46865108/full/1250,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1250,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/953517fda9bdd547bd17f64a46865108",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/953517fda9bdd547bd17f64a46865108",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -1285,29 +1285,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/37",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/37",
             "type": "Canvas",
             "height": 3166,
             "width": 1889,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/37/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/37/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/37/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/37/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/37",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/37",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/74e4cf01456ba3a90cf3d0049010e76d/full/1193,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/74e4cf01456ba3a90cf3d0049010e76d/full/1193,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1193,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/74e4cf01456ba3a90cf3d0049010e76d",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/74e4cf01456ba3a90cf3d0049010e76d",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -1319,29 +1319,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/38",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/38",
             "type": "Canvas",
             "height": 3166,
             "width": 1969,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/38/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/38/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/38/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/38/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/38",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/38",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/9225b3fc537cf72130a9e2a87eb9ed25/full/1244,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/9225b3fc537cf72130a9e2a87eb9ed25/full/1244,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1244,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/9225b3fc537cf72130a9e2a87eb9ed25",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/9225b3fc537cf72130a9e2a87eb9ed25",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -1353,29 +1353,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/39",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/39",
             "type": "Canvas",
             "height": 3170,
             "width": 1890,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/39/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/39/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/39/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/39/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/39",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/39",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/9aab873b3cc19d1e29d567de99a0fcba/full/1192,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/9aab873b3cc19d1e29d567de99a0fcba/full/1192,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1192,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/9aab873b3cc19d1e29d567de99a0fcba",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/9aab873b3cc19d1e29d567de99a0fcba",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -1387,29 +1387,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/40",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/40",
             "type": "Canvas",
             "height": 3170,
             "width": 1980,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/40/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/40/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/40/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/40/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/40",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/40",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/8020b5bc3bb30fef7fc3f2c1655e6bbf/full/1249,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/8020b5bc3bb30fef7fc3f2c1655e6bbf/full/1249,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1249,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/8020b5bc3bb30fef7fc3f2c1655e6bbf",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/8020b5bc3bb30fef7fc3f2c1655e6bbf",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -1421,29 +1421,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/41",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/41",
             "type": "Canvas",
             "height": 3168,
             "width": 1886,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/41/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/41/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/41/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/41/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/41",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/41",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/bf5fba62dfd7da2e1bef137535a1f2aa/full/1191,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/bf5fba62dfd7da2e1bef137535a1f2aa/full/1191,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1191,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/bf5fba62dfd7da2e1bef137535a1f2aa",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/bf5fba62dfd7da2e1bef137535a1f2aa",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -1455,29 +1455,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/42",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/42",
             "type": "Canvas",
             "height": 3168,
             "width": 1981,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/42/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/42/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/42/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/42/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/42",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/42",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/51d7a62a33d802bfe71f4028fd775446/full/1251,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/51d7a62a33d802bfe71f4028fd775446/full/1251,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1251,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/51d7a62a33d802bfe71f4028fd775446",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/51d7a62a33d802bfe71f4028fd775446",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -1489,29 +1489,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/43",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/43",
             "type": "Canvas",
             "height": 3174,
             "width": 1894,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/43/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/43/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/43/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/43/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/43",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/43",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/7f3e942667774be125caca0c3ad0d6f5/full/1193,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/7f3e942667774be125caca0c3ad0d6f5/full/1193,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1193,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/7f3e942667774be125caca0c3ad0d6f5",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/7f3e942667774be125caca0c3ad0d6f5",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -1523,29 +1523,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/44",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/44",
             "type": "Canvas",
             "height": 3174,
             "width": 1984,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/44/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/44/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/44/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/44/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/44",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/44",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/bca585ae244a033d68f8661c7d86d6e0/full/1250,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/bca585ae244a033d68f8661c7d86d6e0/full/1250,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1250,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/bca585ae244a033d68f8661c7d86d6e0",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/bca585ae244a033d68f8661c7d86d6e0",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -1557,29 +1557,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/45",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/45",
             "type": "Canvas",
             "height": 3180,
             "width": 1902,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/45/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/45/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/45/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/45/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/45",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/45",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/19c8a55361d9704ed4161c560d77fca5/full/1196,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/19c8a55361d9704ed4161c560d77fca5/full/1196,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1196,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/19c8a55361d9704ed4161c560d77fca5",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/19c8a55361d9704ed4161c560d77fca5",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -1591,29 +1591,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/46",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/46",
             "type": "Canvas",
             "height": 3180,
             "width": 1999,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/46/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/46/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/46/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/46/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/46",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/46",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/3c76542ac66cd9ee055a01ac039cd7e3/full/1257,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/3c76542ac66cd9ee055a01ac039cd7e3/full/1257,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1257,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/3c76542ac66cd9ee055a01ac039cd7e3",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/3c76542ac66cd9ee055a01ac039cd7e3",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -1625,29 +1625,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/47",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/47",
             "type": "Canvas",
             "height": 3200,
             "width": 1904,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/47/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/47/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/47/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/47/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/47",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/47",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/1b4d1d419ab1508656f6071f8c46a63d/full/1190,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/1b4d1d419ab1508656f6071f8c46a63d/full/1190,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1190,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/1b4d1d419ab1508656f6071f8c46a63d",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/1b4d1d419ab1508656f6071f8c46a63d",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -1659,29 +1659,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/48",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/48",
             "type": "Canvas",
             "height": 3200,
             "width": 2000,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/48/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/48/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/48/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/48/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/48",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/48",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/ebaa72c063d8b004dc0b5924e0cf6498/full/1250,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/ebaa72c063d8b004dc0b5924e0cf6498/full/1250,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1250,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/ebaa72c063d8b004dc0b5924e0cf6498",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/ebaa72c063d8b004dc0b5924e0cf6498",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -1693,29 +1693,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/49",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/49",
             "type": "Canvas",
             "height": 3209,
             "width": 1911,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/49/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/49/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/49/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/49/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/49",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/49",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/40f4b4925e3234ad92134144aebf1519/full/1191,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/40f4b4925e3234ad92134144aebf1519/full/1191,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1191,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/40f4b4925e3234ad92134144aebf1519",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/40f4b4925e3234ad92134144aebf1519",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -1727,29 +1727,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/50",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/50",
             "type": "Canvas",
             "height": 3209,
             "width": 2008,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/50/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/50/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/50/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/50/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/50",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/50",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/7678b001f68be6a3d19b18b456613ec3/full/1251,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/7678b001f68be6a3d19b18b456613ec3/full/1251,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1251,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/7678b001f68be6a3d19b18b456613ec3",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/7678b001f68be6a3d19b18b456613ec3",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -1761,29 +1761,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/51",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/51",
             "type": "Canvas",
             "height": 3206,
             "width": 1909,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/51/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/51/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/51/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/51/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/51",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/51",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/df72a029c26044e4a39d78bd02b3d798/full/1191,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/df72a029c26044e4a39d78bd02b3d798/full/1191,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1191,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/df72a029c26044e4a39d78bd02b3d798",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/df72a029c26044e4a39d78bd02b3d798",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -1795,29 +1795,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/52",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/52",
             "type": "Canvas",
             "height": 3206,
             "width": 2011,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/52/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/52/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/52/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/52/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/52",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/52",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/92a5f3e3e546824dfde0cd3b56e21275/full/1255,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/92a5f3e3e546824dfde0cd3b56e21275/full/1255,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1255,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/92a5f3e3e546824dfde0cd3b56e21275",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/92a5f3e3e546824dfde0cd3b56e21275",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -1829,29 +1829,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/53",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/53",
             "type": "Canvas",
             "height": 3188,
             "width": 1881,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/53/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/53/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/53/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/53/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/53",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/53",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/29a94e8582d87193d80bdd4c7f3fc5c8/full/1180,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/29a94e8582d87193d80bdd4c7f3fc5c8/full/1180,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1180,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/29a94e8582d87193d80bdd4c7f3fc5c8",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/29a94e8582d87193d80bdd4c7f3fc5c8",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -1863,29 +1863,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/54",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/54",
             "type": "Canvas",
             "height": 3201,
             "width": 2013,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/54/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/54/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/54/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/54/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/54",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/54",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/6bb9beca57f7cea0477c32f4cabfc365/full/1258,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/6bb9beca57f7cea0477c32f4cabfc365/full/1258,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1258,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/6bb9beca57f7cea0477c32f4cabfc365",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/6bb9beca57f7cea0477c32f4cabfc365",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -1897,29 +1897,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/55",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/55",
             "type": "Canvas",
             "height": 3208,
             "width": 1895,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/55/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/55/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/55/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/55/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/55",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/55",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/687ed39d9b23c74a30a6fa4051ee3b85/full/1181,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/687ed39d9b23c74a30a6fa4051ee3b85/full/1181,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1181,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/687ed39d9b23c74a30a6fa4051ee3b85",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/687ed39d9b23c74a30a6fa4051ee3b85",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -1931,29 +1931,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/56",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/56",
             "type": "Canvas",
             "height": 3208,
             "width": 2029,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/56/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/56/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/56/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/56/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/56",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/56",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/05f905994ef76051a3b8074052dc9a16/full/1265,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/05f905994ef76051a3b8074052dc9a16/full/1265,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1265,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/05f905994ef76051a3b8074052dc9a16",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/05f905994ef76051a3b8074052dc9a16",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -1965,29 +1965,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/57",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/57",
             "type": "Canvas",
             "height": 3197,
             "width": 1919,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/57/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/57/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/57/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/57/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/57",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/57",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/93669050730c1359187190491a92ac1c/full/1201,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/93669050730c1359187190491a92ac1c/full/1201,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1201,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/93669050730c1359187190491a92ac1c",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/93669050730c1359187190491a92ac1c",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -1999,29 +1999,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/58",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/58",
             "type": "Canvas",
             "height": 3197,
             "width": 2012,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/58/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/58/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/58/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/58/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/58",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/58",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/35ad21bb41c7287769001151b2cdf1e8/full/1259,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/35ad21bb41c7287769001151b2cdf1e8/full/1259,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1259,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/35ad21bb41c7287769001151b2cdf1e8",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/35ad21bb41c7287769001151b2cdf1e8",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -2033,29 +2033,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/59",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/59",
             "type": "Canvas",
             "height": 3190,
             "width": 1898,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/59/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/59/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/59/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/59/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/59",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/59",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/788bd3a74e85514284fd29da0fc90fcf/full/1190,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/788bd3a74e85514284fd29da0fc90fcf/full/1190,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1190,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/788bd3a74e85514284fd29da0fc90fcf",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/788bd3a74e85514284fd29da0fc90fcf",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -2067,29 +2067,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/60",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/60",
             "type": "Canvas",
             "height": 3190,
             "width": 2033,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/60/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/60/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/60/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/60/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/60",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/60",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/0b18619a53dd68bc8c284fa1aa2722d9/full/1275,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/0b18619a53dd68bc8c284fa1aa2722d9/full/1275,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1275,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/0b18619a53dd68bc8c284fa1aa2722d9",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/0b18619a53dd68bc8c284fa1aa2722d9",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -2101,29 +2101,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/61",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/61",
             "type": "Canvas",
             "height": 3180,
             "width": 1901,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/61/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/61/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/61/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/61/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/61",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/61",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/f982a9f2431e309ef613fe7f4f825642/full/1196,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/f982a9f2431e309ef613fe7f4f825642/full/1196,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1196,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/f982a9f2431e309ef613fe7f4f825642",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/f982a9f2431e309ef613fe7f4f825642",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -2135,29 +2135,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/62",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/62",
             "type": "Canvas",
             "height": 3180,
             "width": 2027,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/62/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/62/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/62/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/62/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/62",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/62",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/43cd2d70386035b278039182fd2d3209/full/1275,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/43cd2d70386035b278039182fd2d3209/full/1275,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1275,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/43cd2d70386035b278039182fd2d3209",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/43cd2d70386035b278039182fd2d3209",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -2169,29 +2169,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/63",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/63",
             "type": "Canvas",
             "height": 3201,
             "width": 1905,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/63/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/63/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/63/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/63/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/63",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/63",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/28a08828287a41db39f92a7e11e9d684/full/1190,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/28a08828287a41db39f92a7e11e9d684/full/1190,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1190,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/28a08828287a41db39f92a7e11e9d684",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/28a08828287a41db39f92a7e11e9d684",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -2203,29 +2203,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/64",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/64",
             "type": "Canvas",
             "height": 3201,
             "width": 2054,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/64/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/64/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/64/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/64/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/64",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/64",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/fcd8f02fef2f197e3aaa07c83eb7508c/full/1283,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/fcd8f02fef2f197e3aaa07c83eb7508c/full/1283,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1283,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/fcd8f02fef2f197e3aaa07c83eb7508c",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/fcd8f02fef2f197e3aaa07c83eb7508c",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -2237,29 +2237,29 @@
             ]
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/65",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/65",
             "type": "Canvas",
             "height": 2977,
             "width": 2039,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/00.559.931-3/canvas/65/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/65/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/00.559.931-3/canvas/65/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/65/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/00.559.931-3/canvas/65",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/canvas/65",
                             "body": {
-                                "id": "https://iiif.tiju.ca/00.559.931-3/e8bb7524105f450a3c1eca3dbf8a0a0f/full/1370,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/e8bb7524105f450a3c1eca3dbf8a0a0f/full/1370,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1370,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/00.559.931-3/e8bb7524105f450a3c1eca3dbf8a0a0f",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/e8bb7524105f450a3c1eca3dbf8a0a0f",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }

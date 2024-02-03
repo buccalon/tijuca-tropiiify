@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://iiif.tiju.ca/br_rjanrio_ta_0_0_0004/manifest.json",
+    "id": "https://buccalon.github.io/tijuca-tropiiify/br_rjanrio_ta_0_0_0004/manifest.json",
     "type": "Manifest",
     "label": {
         "none": [
@@ -40,7 +40,7 @@
     "rights": "Public Domain",
     "thumbnail": [
         {
-            "id": "https://iiif.tiju.ca/br_rjanrio_ta_0_0_0004/9c18fb8bc59fbc47d7acb45d01389681/full/227,300/0/default.jpg",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/br_rjanrio_ta_0_0_0004/9c18fb8bc59fbc47d7acb45d01389681/full/227,300/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "height": 300,
@@ -49,29 +49,29 @@
     ],
     "items": [
         {
-            "id": "https://iiif.tiju.ca/br_rjanrio_ta_0_0_0004/canvas/1",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/br_rjanrio_ta_0_0_0004/canvas/1",
             "type": "Canvas",
             "height": 3888,
             "width": 2944,
             "items": [
                 {
-                    "id": "https://iiif.tiju.ca/br_rjanrio_ta_0_0_0004/canvas/1/annopage-1",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/br_rjanrio_ta_0_0_0004/canvas/1/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/br_rjanrio_ta_0_0_0004/canvas/1/annopage-1/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/br_rjanrio_ta_0_0_0004/canvas/1/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://iiif.tiju.ca/br_rjanrio_ta_0_0_0004/canvas/1",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/br_rjanrio_ta_0_0_0004/canvas/1",
                             "body": {
-                                "id": "https://iiif.tiju.ca/br_rjanrio_ta_0_0_0004/9c18fb8bc59fbc47d7acb45d01389681/full/1514,2000/0/default.jpg",
+                                "id": "https://buccalon.github.io/tijuca-tropiiify/br_rjanrio_ta_0_0_0004/9c18fb8bc59fbc47d7acb45d01389681/full/1514,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1514,
                                 "service": [
                                     {
-                                        "id": "https://iiif.tiju.ca/br_rjanrio_ta_0_0_0004/9c18fb8bc59fbc47d7acb45d01389681",
+                                        "id": "https://buccalon.github.io/tijuca-tropiiify/br_rjanrio_ta_0_0_0004/9c18fb8bc59fbc47d7acb45d01389681",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -83,14 +83,14 @@
             ],
             "annotations": [
                 {
-                    "id": "https://iiif.tiju.ca/br_rjanrio_ta_0_0_0004/canvas/1/annopage-2",
+                    "id": "https://buccalon.github.io/tijuca-tropiiify/br_rjanrio_ta_0_0_0004/canvas/1/annopage-2",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://iiif.tiju.ca/br_rjanrio_ta_0_0_0004/canvas/1/annopage-2/anno-1",
+                            "id": "https://buccalon.github.io/tijuca-tropiiify/br_rjanrio_ta_0_0_0004/canvas/1/annopage-2/anno-1",
                             "type": "Annotation",
                             "motivation": "commenting",
-                            "target": "https://iiif.tiju.ca/br_rjanrio_ta_0_0_0004/canvas/1",
+                            "target": "https://buccalon.github.io/tijuca-tropiiify/br_rjanrio_ta_0_0_0004/canvas/1",
                             "body": {
                                 "type": "TextualBody",
                                 "format": "text/html",

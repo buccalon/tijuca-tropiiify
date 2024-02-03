@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://iiif.tiju.ca/index.json",
+    "id": "https://buccalon.github.io/tijuca-tropiiify/index.json",
     "type": "Collection",
     "label": {
         "none": [
@@ -9,7 +9,7 @@
     },
     "thumbnail": [
         {
-            "id": "https://iiif.tiju.ca/teste-id/7fa7a0a59e97751ea2837b3c295979c1/full/186,300/0/default.jpeg",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/teste-id/7fa7a0a59e97751ea2837b3c295979c1/full/186,300/0/default.jpeg",
             "type": "Image",
             "format": "image/jpeg",
             "height": 300,
@@ -18,7 +18,7 @@
     ],
     "items": [
         {
-            "id": "https://iiif.tiju.ca/teste-id/manifest.json",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/teste-id/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -27,7 +27,7 @@
             }
         },
         {
-            "id": "https://iiif.tiju.ca/cx02.046.a1-3/manifest.json",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/cx02.046.a1-3/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -36,7 +36,7 @@
             }
         },
         {
-            "id": "https://iiif.tiju.ca/br_rjanrio_ta_0_0_0018/manifest.json",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/br_rjanrio_ta_0_0_0018/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -45,7 +45,7 @@
             }
         },
         {
-            "id": "https://iiif.tiju.ca/br_rjanrio_ta_0_0_0004/manifest.json",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/br_rjanrio_ta_0_0_0004/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -54,7 +54,7 @@
             }
         },
         {
-            "id": "https://iiif.tiju.ca/br_rjanrio_ta_0_0_0001/manifest.json",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/br_rjanrio_ta_0_0_0001/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -63,7 +63,7 @@
             }
         },
         {
-            "id": "https://iiif.tiju.ca/acmsarjp66doc9f1/manifest.json",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/acmsarjp66doc9f1/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -72,7 +72,7 @@
             }
         },
         {
-            "id": "https://iiif.tiju.ca/acmsarjp66doc8f1/manifest.json",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/acmsarjp66doc8f1/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -81,7 +81,7 @@
             }
         },
         {
-            "id": "https://iiif.tiju.ca/acmsarjp66doc6f1/manifest.json",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/acmsarjp66doc6f1/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -90,7 +90,7 @@
             }
         },
         {
-            "id": "https://iiif.tiju.ca/acmsarjp66doc1f1/manifest.json",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/acmsarjp66doc1f1/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -99,7 +99,7 @@
             }
         },
         {
-            "id": "https://iiif.tiju.ca/acmsarjp66doc11f1/manifest.json",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/acmsarjp66doc11f1/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -108,7 +108,7 @@
             }
         },
         {
-            "id": "https://iiif.tiju.ca/acmsarjp66doc10f1/manifest.json",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/acmsarjp66doc10f1/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -117,7 +117,7 @@
             }
         },
         {
-            "id": "https://iiif.tiju.ca/2021669555/manifest.json",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/2021669555/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -126,7 +126,7 @@
             }
         },
         {
-            "id": "https://iiif.tiju.ca/02.267.597-8/manifest.json",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/02.267.597-8/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -135,7 +135,7 @@
             }
         },
         {
-            "id": "https://iiif.tiju.ca/00.559.931-3/manifest.json",
+            "id": "https://buccalon.github.io/tijuca-tropiiify/00.559.931-3/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
