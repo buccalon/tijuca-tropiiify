@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://iiif.tiju.ca/index.json",
+    "type": "Collection",
+    "label": {
+        "none": [
+            "Tijuca Floresta Arquivo"
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/dff084ca0be6bbbd76bd3f2ef1bc6c68/full/206,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 206
+        }
+    ],
+    "items": [
+        {
+            "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Inventário do Major Manoel Gomes Archer"
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/bnbr_sophia_60996/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Relatório dos trabalhos executados na Floresta Nacional da Tijuca de 1º de Janeiro a 31 de Dezembro de 1890"
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/bnbr_drg605826/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "A Floresta da Tijuca"
+                ]
+            }
+        }
+    ]
+}

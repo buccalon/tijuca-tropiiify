@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/image/3/context.json",
+  "id": "https://iiif.tiju.ca/bnbr_sophia_60996/ef177de8503c7746f0616e54cc6db1d7",
+  "type": "ImageService3",
+  "profile": "level0",
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [
+    {
+      "scaleFactors": [
+        1,
+        2,
+        4
+      ],
+      "width": 256
+    }
+  ],
+  "width": 1756,
+  "height": 1353,
+  "sizes": [
+    {
+      "width": 300,
+      "height": 231
+    },
+    {
+      "width": 1756,
+      "height": 1353
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "name": "tijuca-tropiiify",
+    "version": "0.0.1",
+    "description": "IIIF collection exported from Tropy using Tropiiify",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/buccalon/tijuca-tropiiify.git"
+    },
+    "author": "Bruno Buccalon",
+    "license": "MIT",
+    "homepage": "https://iiif.tiju.ca/"
+  }
