@@ -1,3 +1,3 @@
 # tijuca-tropiiify
 
-IIIF Collection exported from a Tropy project
+IIIF Collection exported from Tropy using [Tropiiify](https://github.com/arkalab/tropiiify)
