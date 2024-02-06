@@ -1,0 +1,112 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://iiif.tiju.ca/0071824cx017a-06/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Floresta da Tijuca com Pedra da Gávea ao fundo"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Marc Ferrez"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1885?"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Fotografia"
+                ]
+            }
+        }
+    ],
+    "requiredStatement": {
+        "label": "Créditos",
+        "value": "Instituto Moreira Salles"
+    },
+    "rights": "http://rightsstatements.org/vocab/NKC/1.0/",
+    "thumbnail": [
+        {
+            "id": "https://iiif.tiju.ca/0071824cx017a-06/b321af34f28f6f0465253253649dd387/full/300,226/0/default.jpeg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 226,
+            "width": 300
+        }
+    ],
+    "items": [
+        {
+            "id": "https://iiif.tiju.ca/0071824cx017a-06/canvas/1",
+            "type": "Canvas",
+            "height": 6939,
+            "width": 9193,
+            "label": {
+                "none": [
+                    "1"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/0071824cx017a-06/b321af34f28f6f0465253253649dd387/full/300,226/0/default.jpeg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 226,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/0071824cx017a-06/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/0071824cx017a-06/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/0071824cx017a-06/canvas/1",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/0071824cx017a-06/b321af34f28f6f0465253253649dd387/full/2000,1510/0/default.jpeg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1510,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/0071824cx017a-06/b321af34f28f6f0465253253649dd387",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

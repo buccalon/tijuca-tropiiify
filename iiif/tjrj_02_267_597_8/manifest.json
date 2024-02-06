@@ -65,6 +65,20 @@
             "type": "Canvas",
             "height": 3066,
             "width": 2102,
+            "label": {
+                "none": [
+                    "image00208"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/dff084ca0be6bbbd76bd3f2ef1bc6c68/full/205,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 205
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/1/annopage-1",
@@ -99,6 +113,20 @@
             "type": "Canvas",
             "height": 3131,
             "width": 1906,
+            "label": {
+                "none": [
+                    "image00210"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/2453b9104eff76965c60670c83e13ba3/full/183,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 183
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/2/annopage-1",
@@ -133,6 +161,20 @@
             "type": "Canvas",
             "height": 3170,
             "width": 1970,
+            "label": {
+                "none": [
+                    "image00212"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/6fad5f8363c5c930250b540d0379a331/full/186,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 186
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/3/annopage-1",
@@ -186,6 +228,20 @@
             "type": "Canvas",
             "height": 3184,
             "width": 2016,
+            "label": {
+                "none": [
+                    "image00213"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/825a7686737686ec7ef525eefe3c7971/full/190,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 190
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/4/annopage-1",
@@ -220,6 +276,20 @@
             "type": "Canvas",
             "height": 3184,
             "width": 1966,
+            "label": {
+                "none": [
+                    "image00214"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/4e896ada8fac291b1a745ce1acfc8a86/full/185,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 185
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/5/annopage-1",
@@ -254,6 +324,20 @@
             "type": "Canvas",
             "height": 3202,
             "width": 1954,
+            "label": {
+                "none": [
+                    "image00215"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/528c1739af79f0eb2c48dcfd4a68a6f6/full/183,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 183
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/6/annopage-1",
@@ -288,6 +372,20 @@
             "type": "Canvas",
             "height": 3202,
             "width": 1965,
+            "label": {
+                "none": [
+                    "image00216"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/0ebc68f2d0b401ed0385fb0f34b35823/full/184,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 184
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/7/annopage-1",
@@ -322,6 +420,20 @@
             "type": "Canvas",
             "height": 3179,
             "width": 2021,
+            "label": {
+                "none": [
+                    "image00217"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/65b00f47bf3b12de49a87473a47e82b6/full/190,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 190
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/8/annopage-1",
@@ -356,6 +468,20 @@
             "type": "Canvas",
             "height": 3179,
             "width": 1953,
+            "label": {
+                "none": [
+                    "image00218"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/a3fdc04bb3340f441334cd73785e15ad/full/184,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 184
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/9/annopage-1",
@@ -390,6 +516,20 @@
             "type": "Canvas",
             "height": 3194,
             "width": 2033,
+            "label": {
+                "none": [
+                    "image00219"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/72a12a37f2dcaa63b7fce5a37cf944bf/full/191,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 191
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/10/annopage-1",
@@ -424,6 +564,20 @@
             "type": "Canvas",
             "height": 3194,
             "width": 1967,
+            "label": {
+                "none": [
+                    "image00220"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/1b6ec4c5c4c07fa94f030089926ac7aa/full/184,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 184
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/11/annopage-1",
@@ -458,6 +612,20 @@
             "type": "Canvas",
             "height": 3213,
             "width": 1988,
+            "label": {
+                "none": [
+                    "image00222"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/5c867d92716a05f345dc5a9b03f81e83/full/186,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 186
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/12/annopage-1",
@@ -492,6 +660,20 @@
             "type": "Canvas",
             "height": 3200,
             "width": 1948,
+            "label": {
+                "none": [
+                    "image00223"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/0f4e1058661d654a02f049abe5c3c75d/full/182,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 182
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/13/annopage-1",
@@ -526,6 +708,20 @@
             "type": "Canvas",
             "height": 3200,
             "width": 1972,
+            "label": {
+                "none": [
+                    "image00224"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/2136a2f4397f20242fe011bb607304f9/full/185,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 185
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/14/annopage-1",
@@ -579,6 +775,20 @@
             "type": "Canvas",
             "height": 3204,
             "width": 2051,
+            "label": {
+                "none": [
+                    "image00225"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/0dbfcfc5831b013eb29a08336ced22de/full/192,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 192
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/15/annopage-1",
@@ -632,6 +842,20 @@
             "type": "Canvas",
             "height": 3204,
             "width": 1967,
+            "label": {
+                "none": [
+                    "image00226"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/2fdab9e0f9cd2b87e29ad6e74fee18ed/full/184,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 184
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/16/annopage-1",
@@ -685,6 +909,20 @@
             "type": "Canvas",
             "height": 3213,
             "width": 2067,
+            "label": {
+                "none": [
+                    "image00227"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/8f5c88b588e0741720bc18f3a85b0c91/full/193,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 193
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/17/annopage-1",
@@ -738,6 +976,20 @@
             "type": "Canvas",
             "height": 3213,
             "width": 1969,
+            "label": {
+                "none": [
+                    "image00228"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/3ebbddca2f845a60647cf05eb8137b9e/full/184,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 184
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/18/annopage-1",
@@ -791,6 +1043,20 @@
             "type": "Canvas",
             "height": 3218,
             "width": 1948,
+            "label": {
+                "none": [
+                    "image00229"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/1b54d337a29632e2f0b1d3e9f75ac9e6/full/181,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 181
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/19/annopage-1",
@@ -844,6 +1110,20 @@
             "type": "Canvas",
             "height": 3218,
             "width": 1982,
+            "label": {
+                "none": [
+                    "image00230"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/fa26ce40a351c67e0b3cf2a362c3a5d0/full/184,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 184
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/20/annopage-1",
@@ -897,6 +1177,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 1956,
+            "label": {
+                "none": [
+                    "image00231"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/8ed01e0f4891a93b2738d170171797a9/full/182,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 182
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/21/annopage-1",
@@ -950,6 +1244,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 1999,
+            "label": {
+                "none": [
+                    "image00232"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/39f9f9cacc664936253fc4e16dc30544/full/185,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 185
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/22/annopage-1",
@@ -1003,6 +1311,20 @@
             "type": "Canvas",
             "height": 3222,
             "width": 1951,
+            "label": {
+                "none": [
+                    "image00233"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/88526bb1cca93bf1976c80cf77065b63/full/181,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 181
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/23/annopage-1",
@@ -1056,6 +1378,20 @@
             "type": "Canvas",
             "height": 3222,
             "width": 2000,
+            "label": {
+                "none": [
+                    "image00234"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/8a9ec641d516df15b181d2e20ddb2413/full/187,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 187
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/24/annopage-1",
@@ -1109,6 +1445,20 @@
             "type": "Canvas",
             "height": 3221,
             "width": 1959,
+            "label": {
+                "none": [
+                    "image00235"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/986424c733bb0b680874af7a0186a78b/full/182,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 182
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/25/annopage-1",
@@ -1162,6 +1512,20 @@
             "type": "Canvas",
             "height": 3221,
             "width": 1999,
+            "label": {
+                "none": [
+                    "image00236"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/d7103e5714b21801e9711f8db5080de4/full/186,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 186
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/26/annopage-1",
@@ -1215,6 +1579,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 1965,
+            "label": {
+                "none": [
+                    "image00237"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/d824a1032d141c53b9cae7c86f17d7a9/full/182,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 182
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/27/annopage-1",
@@ -1268,6 +1646,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2003,
+            "label": {
+                "none": [
+                    "image00238"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/b9563307cf176cfc3b3d0cc91f51641c/full/186,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 186
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/28/annopage-1",
@@ -1302,6 +1694,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 1937,
+            "label": {
+                "none": [
+                    "image00239"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/dd6f13cf9d5720f0c6031b1942ce24b7/full/180,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 180
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/29/annopage-1",
@@ -1336,6 +1742,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2005,
+            "label": {
+                "none": [
+                    "image00240"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/5a0eb742ef25be895d0a471595a157f4/full/186,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 186
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/30/annopage-1",
@@ -1370,6 +1790,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 1956,
+            "label": {
+                "none": [
+                    "image00241"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/174c3566ad000bb71f697c2be6fdf52c/full/182,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 182
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/31/annopage-1",
@@ -1404,6 +1838,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2009,
+            "label": {
+                "none": [
+                    "image00242"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/87b8d2899acab3c531fb99552cb0fa86/full/187,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 187
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/32/annopage-1",
@@ -1438,6 +1886,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 1951,
+            "label": {
+                "none": [
+                    "image00243"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/72998d8cf054c303bc94aff8c0e3c292/full/181,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 181
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/33/annopage-1",
@@ -1472,6 +1934,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2018,
+            "label": {
+                "none": [
+                    "image00244"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/736720fa70290e76d42285d0894df04b/full/188,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 188
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/34/annopage-1",
@@ -1506,6 +1982,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 1979,
+            "label": {
+                "none": [
+                    "image00245"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/8e777980fc1d9661610dd3a9682ac906/full/184,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 184
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/35/annopage-1",
@@ -1540,6 +2030,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2018,
+            "label": {
+                "none": [
+                    "image00246"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/33afa7092ad5a8752651b841e1713615/full/188,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 188
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/36/annopage-1",
@@ -1574,6 +2078,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 1929,
+            "label": {
+                "none": [
+                    "image00247"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/3036a0e12ec7e8d084b76faa23662251/full/179,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 179
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/37/annopage-1",
@@ -1608,6 +2126,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2035,
+            "label": {
+                "none": [
+                    "image00248"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/0997110dd0f59cc662265cdfbd0b613c/full/189,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 189
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/38/annopage-1",
@@ -1642,6 +2174,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 1934,
+            "label": {
+                "none": [
+                    "image00249"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/b059584a7bc662bf29b88af0ab5c86df/full/179,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 179
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/39/annopage-1",
@@ -1676,6 +2222,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2010,
+            "label": {
+                "none": [
+                    "image00250"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/0e8fb26d5c08a5b0ba9b37482d7e48ec/full/187,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 187
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/40/annopage-1",
@@ -1710,6 +2270,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 1960,
+            "label": {
+                "none": [
+                    "image00251"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/0a27495745578318896106491c75f2f9/full/182,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 182
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/41/annopage-1",
@@ -1744,6 +2318,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2029,
+            "label": {
+                "none": [
+                    "image00252"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/341632fdfd5d67e7bb6d9d4d5947cd6d/full/188,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 188
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/42/annopage-1",
@@ -1778,6 +2366,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2110,
+            "label": {
+                "none": [
+                    "image00253"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/0e7024bc1d6126ddf76bcab7d5fd5499/full/196,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 196
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/43/annopage-1",
@@ -1812,6 +2414,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2028,
+            "label": {
+                "none": [
+                    "image00254"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/859a0293665b139000d2ed40daa67393/full/188,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 188
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/44/annopage-1",
@@ -1846,6 +2462,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 1942,
+            "label": {
+                "none": [
+                    "image00255"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/3ff16662cc90f37402579c97aa7998eb/full/180,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 180
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/45/annopage-1",
@@ -1880,6 +2510,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2050,
+            "label": {
+                "none": [
+                    "image00256"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/4d3718eec8738c457697822378739378/full/191,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 191
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/46/annopage-1",
@@ -1914,6 +2558,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 1918,
+            "label": {
+                "none": [
+                    "image00257"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/a6d79e2b04b6b7a55e5e3a0e707f7cc2/full/178,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 178
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/47/annopage-1",
@@ -1948,6 +2606,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2044,
+            "label": {
+                "none": [
+                    "image00258"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/addc67babf2f929c54db04a5235db3b3/full/190,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 190
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/48/annopage-1",
@@ -1982,6 +2654,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 1962,
+            "label": {
+                "none": [
+                    "image00259"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/cbb943f6504ce2a376f403ee48ac5b77/full/182,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 182
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/49/annopage-1",
@@ -2016,6 +2702,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2048,
+            "label": {
+                "none": [
+                    "image00260"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/2737517dad64a6069b7eea24b486f58e/full/191,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 191
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/50/annopage-1",
@@ -2050,6 +2750,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 1982,
+            "label": {
+                "none": [
+                    "image00261"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/fcc6469fd63dc7ca450582babdffa03f/full/184,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 184
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/51/annopage-1",
@@ -2084,6 +2798,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2059,
+            "label": {
+                "none": [
+                    "image00262"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/138e761091ad172adee0b54e9e15a0e3/full/191,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 191
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/52/annopage-1",
@@ -2118,6 +2846,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 1918,
+            "label": {
+                "none": [
+                    "image00263"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/94b3a798eead2c78ccbed584d8a500ab/full/178,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 178
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/53/annopage-1",
@@ -2152,6 +2894,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2065,
+            "label": {
+                "none": [
+                    "image00264"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/61cabcb63a6e5dafadb9ff6ff6806a00/full/192,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 192
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/54/annopage-1",
@@ -2186,6 +2942,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 1990,
+            "label": {
+                "none": [
+                    "image00265"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/dc6e0322445db16e3586c45c29ee4c4f/full/185,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 185
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/55/annopage-1",
@@ -2220,6 +2990,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2062,
+            "label": {
+                "none": [
+                    "image00266"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/135ddcce4162e54590873edc62455417/full/191,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 191
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/56/annopage-1",
@@ -2254,6 +3038,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 1945,
+            "label": {
+                "none": [
+                    "image00267"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/d987257a7da2a8b1c2aa0148c7eedb82/full/181,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 181
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/57/annopage-1",
@@ -2288,6 +3086,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2083,
+            "label": {
+                "none": [
+                    "image00268"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/80fa802abb75f7b878b41860b6b6e92b/full/194,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 194
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/58/annopage-1",
@@ -2322,6 +3134,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 1956,
+            "label": {
+                "none": [
+                    "image00269"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/64625470225ffb644453e2676918d98f/full/182,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 182
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/59/annopage-1",
@@ -2356,6 +3182,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2102,
+            "label": {
+                "none": [
+                    "image00270"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/2d685e0cbaa84b2773de165bc30bf1d9/full/195,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 195
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/60/annopage-1",
@@ -2390,6 +3230,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 1948,
+            "label": {
+                "none": [
+                    "image00271"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/59edc62a0f8d5927a16fad671887ac36/full/181,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 181
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/61/annopage-1",
@@ -2424,6 +3278,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2061,
+            "label": {
+                "none": [
+                    "image00272"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/9fe4d9c76376765798c677a364e0709a/full/191,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 191
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/62/annopage-1",
@@ -2458,6 +3326,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2136,
+            "label": {
+                "none": [
+                    "image00273"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/f3d33de1d0bcbc672dec28178945a10d/full/199,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 199
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/63/annopage-1",
@@ -2492,6 +3374,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2084,
+            "label": {
+                "none": [
+                    "image00274"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/7d80a58f799e99275733a4fd2ee6a877/full/194,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 194
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/64/annopage-1",
@@ -2526,6 +3422,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2136,
+            "label": {
+                "none": [
+                    "image00275"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/2d970afd8540929e4dbeb286db538d01/full/199,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 199
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/65/annopage-1",
@@ -2560,6 +3470,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2101,
+            "label": {
+                "none": [
+                    "image00276"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/4e1e1137bd7079de4fe6e2071c67d8c7/full/195,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 195
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/66/annopage-1",
@@ -2594,6 +3518,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 1937,
+            "label": {
+                "none": [
+                    "image00277"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/9860c255d6436582936af9ec0e4d7746/full/180,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 180
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/67/annopage-1",
@@ -2628,6 +3566,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2092,
+            "label": {
+                "none": [
+                    "image00278"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/1adba931cb469405ccbe4cefa3cad1a4/full/194,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 194
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/68/annopage-1",
@@ -2662,6 +3614,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 1968,
+            "label": {
+                "none": [
+                    "image00279"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/39e408cf575858c931fa58d5cadedc57/full/183,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 183
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/69/annopage-1",
@@ -2696,6 +3662,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2097,
+            "label": {
+                "none": [
+                    "image00280"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/b817aef08de104cdb832be7ec3bb8be7/full/195,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 195
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/70/annopage-1",
@@ -2730,6 +3710,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 1928,
+            "label": {
+                "none": [
+                    "image00281"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/d961f5894f6b8c853d69292cfffb8add/full/179,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 179
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/71/annopage-1",
@@ -2764,6 +3758,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2105,
+            "label": {
+                "none": [
+                    "image00282"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/e3afa29fd80de702705081cbd0ddeb28/full/196,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 196
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/72/annopage-1",
@@ -2798,6 +3806,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 1943,
+            "label": {
+                "none": [
+                    "image00283"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/fe2ac1e864bad87afc7e367b8ed3b242/full/180,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 180
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/73/annopage-1",
@@ -2832,6 +3854,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2104,
+            "label": {
+                "none": [
+                    "image00284"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/d40fd814e52008f61bb81c11ac5703f8/full/196,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 196
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/74/annopage-1",
@@ -2866,6 +3902,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 1946,
+            "label": {
+                "none": [
+                    "image00285"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/89cedacb099808c1b68b61092bc6cc01/full/181,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 181
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/75/annopage-1",
@@ -2900,6 +3950,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2120,
+            "label": {
+                "none": [
+                    "image00286"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/ef01d5ce13d6286b51feeea6ae50698c/full/197,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 197
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/76/annopage-1",
@@ -2934,6 +3998,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 1943,
+            "label": {
+                "none": [
+                    "image00287"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/5e91d917630307cdc57cb6b937731134/full/180,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 180
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/77/annopage-1",
@@ -2968,6 +4046,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2133,
+            "label": {
+                "none": [
+                    "image00288"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/55cc98e2516b58eaff5ef357caec4bad/full/198,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 198
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/78/annopage-1",
@@ -3002,6 +4094,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2197,
+            "label": {
+                "none": [
+                    "image00289"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/9ad26b474b989dae575cb70a74509f50/full/204,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 204
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/79/annopage-1",
@@ -3036,6 +4142,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2117,
+            "label": {
+                "none": [
+                    "image00290"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/1ef5653a6f33401854e91c718b5919b6/full/197,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 197
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/80/annopage-1",
@@ -3070,6 +4190,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 1922,
+            "label": {
+                "none": [
+                    "image00291"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/597f4c1d62ffc45b0efdf777386269a7/full/179,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 179
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/81/annopage-1",
@@ -3104,6 +4238,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2141,
+            "label": {
+                "none": [
+                    "image00292"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/32a44a1847ffaaa13847f9c75689b33a/full/199,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 199
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/82/annopage-1",
@@ -3138,6 +4286,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 1928,
+            "label": {
+                "none": [
+                    "image00293"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/b0a65684f5fc969e608ab7e5edc5cce0/full/179,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 179
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/83/annopage-1",
@@ -3172,6 +4334,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2140,
+            "label": {
+                "none": [
+                    "image00294"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/29ff60a8b2f509fb5b6dc802cc07a81a/full/199,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 199
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/84/annopage-1",
@@ -3206,6 +4382,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 1956,
+            "label": {
+                "none": [
+                    "image00295"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/9f07ae566aea15b609a0328bdcf91021/full/182,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 182
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/85/annopage-1",
@@ -3240,6 +4430,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2143,
+            "label": {
+                "none": [
+                    "image00296"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/182bb4191db883cf89892e22239df8db/full/199,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 199
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/86/annopage-1",
@@ -3274,6 +4478,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 1923,
+            "label": {
+                "none": [
+                    "image00297"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/d2cf5f142037cafd1acef5ce323959a8/full/179,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 179
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/87/annopage-1",
@@ -3308,6 +4526,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2142,
+            "label": {
+                "none": [
+                    "image00298"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/7a6bb4c6e9fab8b9bdcdda8c1fc2bcf3/full/199,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 199
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/88/annopage-1",
@@ -3342,6 +4574,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 1923,
+            "label": {
+                "none": [
+                    "image00299"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/5a3730985e2fe58598c0822e2b4e6964/full/179,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 179
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/89/annopage-1",
@@ -3376,6 +4622,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2139,
+            "label": {
+                "none": [
+                    "image00300"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/d3aa9e379ac01f2c6e4ca05e2aa19d98/full/199,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 199
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/90/annopage-1",
@@ -3410,6 +4670,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 1929,
+            "label": {
+                "none": [
+                    "image00301"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/6f86a4e079fe6c8e98b25c203cb7265d/full/179,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 179
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/91/annopage-1",
@@ -3444,6 +4718,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2151,
+            "label": {
+                "none": [
+                    "image00302"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/201787cf505af6fd187faa0e2fd0852f/full/200,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 200
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/92/annopage-1",
@@ -3478,6 +4766,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2166,
+            "label": {
+                "none": [
+                    "image00304"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/06e4f3b4d4e23b84037cc3a259e0549c/full/201,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 201
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/93/annopage-1",
@@ -3512,6 +4814,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2154,
+            "label": {
+                "none": [
+                    "image00306"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/1b780ee11739925229c7f48115262f56/full/200,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 200
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/94/annopage-1",
@@ -3546,6 +4862,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 1903,
+            "label": {
+                "none": [
+                    "image00307"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/6e9e67e0f48c81e8e407ee1b58e5c0ba/full/176,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 176
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/95/annopage-1",
@@ -3580,6 +4910,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2161,
+            "label": {
+                "none": [
+                    "image00308"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/bdb42ee382cfd55f14a7137cd568fff0/full/201,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 201
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/96/annopage-1",
@@ -3614,6 +4958,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2170,
+            "label": {
+                "none": [
+                    "image00310"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/5d663ee0d2717412d5d82ab3303201ea/full/202,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 202
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/97/annopage-1",
@@ -3648,6 +5006,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 1912,
+            "label": {
+                "none": [
+                    "image00311"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/989ba3c2175850e7ed4c246c469fcada/full/178,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 178
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/98/annopage-1",
@@ -3682,6 +5054,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2148,
+            "label": {
+                "none": [
+                    "image00312"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/e8f9797aeca95cdfda6c3805c99d5b68/full/200,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 200
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/99/annopage-1",
@@ -3716,6 +5102,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2147,
+            "label": {
+                "none": [
+                    "image00314"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/f714e202e0d88516bd6f14be8845fde2/full/200,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 200
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/100/annopage-1",
@@ -3750,6 +5150,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 1922,
+            "label": {
+                "none": [
+                    "image00315"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/0aa33ea4f6accb28c08e1dec14ff1c6a/full/179,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 179
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/101/annopage-1",
@@ -3784,6 +5198,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2157,
+            "label": {
+                "none": [
+                    "image00316"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/1a855110a981fa94334aee4d7a35d3b1/full/200,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 200
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/102/annopage-1",
@@ -3818,6 +5246,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2458,
+            "label": {
+                "none": [
+                    "image00318"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/b47a05208a2216d3ac88c53910d76630/full/229,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 229
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/103/annopage-1",
@@ -3852,6 +5294,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 1912,
+            "label": {
+                "none": [
+                    "image00319"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/5ffaf38588a8957b2b83654e27136b8a/full/178,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 178
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/104/annopage-1",
@@ -3886,6 +5342,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2168,
+            "label": {
+                "none": [
+                    "image00320"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/e0b62028b4e953c4dc8f31dce00343fd/full/202,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 202
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/105/annopage-1",
@@ -3920,6 +5390,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 1940,
+            "label": {
+                "none": [
+                    "image00321"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/3f12ac3f0712c62379837f577d1da877/full/180,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 180
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/106/annopage-1",
@@ -3954,6 +5438,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2152,
+            "label": {
+                "none": [
+                    "image00322"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/5156680e0fb1e53b309d267fa4984a71/full/200,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 200
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/107/annopage-1",
@@ -3988,6 +5486,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2155,
+            "label": {
+                "none": [
+                    "image00324"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/d5db3e7c190b4d85956e607d3a60536a/full/200,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 200
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/108/annopage-1",
@@ -4022,6 +5534,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 1974,
+            "label": {
+                "none": [
+                    "image00325"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/38be04b15f1e2e43ed51159bb62f4923/full/183,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 183
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/109/annopage-1",
@@ -4056,6 +5582,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2111,
+            "label": {
+                "none": [
+                    "image00326"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/070e83c8a0a17c284ecbe9401f1cf9a2/full/196,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 196
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/110/annopage-1",
@@ -4090,6 +5630,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2124,
+            "label": {
+                "none": [
+                    "image00328"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/3754c93ffd564aee89ae81cb2d95bdc8/full/197,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 197
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/111/annopage-1",
@@ -4124,6 +5678,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2171,
+            "label": {
+                "none": [
+                    "image00330"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/3fa430db6e39deab2b91cf46641f0b63/full/202,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 202
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/112/annopage-1",
@@ -4158,6 +5726,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2073,
+            "label": {
+                "none": [
+                    "image00332"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/b4faf7184c7ec46c977dca559aebfc71/full/193,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 193
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/113/annopage-1",
@@ -4192,6 +5774,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2049,
+            "label": {
+                "none": [
+                    "image00333"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/42c699eff16e5452967df82feba7f844/full/191,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 191
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/114/annopage-1",
@@ -4226,6 +5822,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 1992,
+            "label": {
+                "none": [
+                    "image00334"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/e4c8f0840021143787b3c5bc51b9b423/full/185,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 185
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/115/annopage-1",
@@ -4260,6 +5870,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2072,
+            "label": {
+                "none": [
+                    "image00335"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/e780f0ea5368881dd9b46e2d71f7b10d/full/193,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 193
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/116/annopage-1",
@@ -4294,6 +5918,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2011,
+            "label": {
+                "none": [
+                    "image00336"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/d9d0e78c11b795335b53648ad8b7eccf/full/187,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 187
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/117/annopage-1",
@@ -4328,6 +5966,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2095,
+            "label": {
+                "none": [
+                    "image00337"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/a79b2875b5a5acbc68138c6543afda5b/full/194,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 194
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/118/annopage-1",
@@ -4362,6 +6014,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2006,
+            "label": {
+                "none": [
+                    "image00338"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/82a0dab277f4b1aa3b1b14225587e4d4/full/186,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 186
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/119/annopage-1",
@@ -4396,6 +6062,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2052,
+            "label": {
+                "none": [
+                    "image00339"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/4479cd0cbfc6f8e80310a69357787aeb/full/191,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 191
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/120/annopage-1",
@@ -4430,6 +6110,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 1989,
+            "label": {
+                "none": [
+                    "image00340"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/84ef1f361cc006ab8be1eb3d70dc8508/full/185,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 185
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/121/annopage-1",
@@ -4464,6 +6158,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2041,
+            "label": {
+                "none": [
+                    "image00341"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/163944b33b5bc833e7d500cbb2c34d67/full/190,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 190
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/122/annopage-1",
@@ -4498,6 +6206,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2013,
+            "label": {
+                "none": [
+                    "image00342"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/b34af8d9daf6075ff5e7d49c6e9a74f9/full/187,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 187
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/123/annopage-1",
@@ -4532,6 +6254,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2049,
+            "label": {
+                "none": [
+                    "image00343"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/20b369e2b9fbabac94dc4c777ba1cf16/full/191,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 191
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/124/annopage-1",
@@ -4566,6 +6302,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 1997,
+            "label": {
+                "none": [
+                    "image00344"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/e42f1c7f948de91a38a8d8ce7a384802/full/185,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 185
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/125/annopage-1",
@@ -4600,6 +6350,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2009,
+            "label": {
+                "none": [
+                    "image00346"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/ecf3ed7ce456c9e2010b7a991a58d94f/full/187,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 187
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/126/annopage-1",
@@ -4634,6 +6398,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2095,
+            "label": {
+                "none": [
+                    "image00347"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/cb13b307d2b5fb0c3c8692e996e1b100/full/194,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 194
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/127/annopage-1",
@@ -4668,6 +6446,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2036,
+            "label": {
+                "none": [
+                    "image00348"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/4b59dee23fda3a08bb1dd01c6d40fc70/full/189,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 189
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/128/annopage-1",
@@ -4702,6 +6494,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 1987,
+            "label": {
+                "none": [
+                    "image00350"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/3bb2970b35a839bc2d43552d9f4f9bb5/full/185,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 185
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/129/annopage-1",
@@ -4736,6 +6542,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2095,
+            "label": {
+                "none": [
+                    "image00351"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/938c02636662e71ce4d91f0e3ad054af/full/194,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 194
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/130/annopage-1",
@@ -4770,6 +6590,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 1979,
+            "label": {
+                "none": [
+                    "image00352"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/99bf82364c077cfaa23e546cb2ed62b7/full/184,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 184
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/131/annopage-1",
@@ -4804,6 +6638,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2133,
+            "label": {
+                "none": [
+                    "image00353"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/31263390ae7438c49e936ac543b6719b/full/198,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 198
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/132/annopage-1",
@@ -4838,6 +6686,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2074,
+            "label": {
+                "none": [
+                    "image00354"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/e95e3fb71b0377191f355f9ca84d3272/full/193,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 193
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/133/annopage-1",
@@ -4872,6 +6734,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2001,
+            "label": {
+                "none": [
+                    "image00356"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/a6bb283ee878704f09e6ecefefbcc62d/full/186,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 186
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/134/annopage-1",
@@ -4906,6 +6782,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2045,
+            "label": {
+                "none": [
+                    "image00358"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/767a977d6cdfa57005ecfbd25c2d76da/full/190,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 190
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/135/annopage-1",
@@ -4940,6 +6830,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 1987,
+            "label": {
+                "none": [
+                    "image00360"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/22d5405975ec5e0baa7997f01c2c563f/full/185,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 185
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/136/annopage-1",
@@ -4974,6 +6878,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2077,
+            "label": {
+                "none": [
+                    "image00361"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/701d532c619dba33c4c5b0a97757efdc/full/193,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 193
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/137/annopage-1",
@@ -5008,6 +6926,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 1964,
+            "label": {
+                "none": [
+                    "image00362"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/eb92f77ceccd9eab8c2adc5978317c31/full/182,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 182
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/138/annopage-1",
@@ -5042,6 +6974,20 @@
             "type": "Canvas",
             "height": 3224,
             "width": 2060,
+            "label": {
+                "none": [
+                    "image00363"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/ac937659d133d75c25ae13e0e99f6eda/full/191,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 191
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/139/annopage-1",
@@ -5076,6 +7022,20 @@
             "type": "Canvas",
             "height": 3047,
             "width": 2084,
+            "label": {
+                "none": [
+                    "image00365"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/6d3022eb05ff1c1aa5509645d58c86f3/full/205,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 205
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/140/annopage-1",
@@ -5110,6 +7070,20 @@
             "type": "Canvas",
             "height": 3058,
             "width": 2110,
+            "label": {
+                "none": [
+                    "image00207"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/f0a637b0c95357733d79fa9cdce6310e/full/207,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 207
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/canvas/141/annopage-1",

@@ -65,6 +65,20 @@
             "type": "Canvas",
             "height": 1756,
             "width": 1180,
+            "label": {
+                "none": [
+                    "1891-relatorio-archer-mss1427958_pages-to-jpg-0002"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/bnbr_sophia_60996/6525022721ba3570c78ba1c99f683405/full/202,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 202
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/bnbr_sophia_60996/canvas/1/annopage-1",
@@ -151,6 +165,20 @@
             "type": "Canvas",
             "height": 1756,
             "width": 1192,
+            "label": {
+                "none": [
+                    "1891-relatorio-archer-mss1427958_pages-to-jpg-0003"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/bnbr_sophia_60996/947894f068cf152ed9b884d43af3a434/full/204,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 204
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/bnbr_sophia_60996/canvas/2/annopage-1",
@@ -248,6 +276,20 @@
             "type": "Canvas",
             "height": 1756,
             "width": 1192,
+            "label": {
+                "none": [
+                    "1891-relatorio-archer-mss1427958_pages-to-jpg-0004"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/bnbr_sophia_60996/8cf7cad81dbc868f2158d23f1a0e1104/full/204,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 204
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/bnbr_sophia_60996/canvas/3/annopage-1",
@@ -356,6 +398,20 @@
             "type": "Canvas",
             "height": 1756,
             "width": 1180,
+            "label": {
+                "none": [
+                    "1891-relatorio-archer-mss1427958_pages-to-jpg-0005"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/bnbr_sophia_60996/2a6178360b17c454a39e75da4739ccd4/full/202,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 202
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/bnbr_sophia_60996/canvas/4/annopage-1",
@@ -464,6 +520,20 @@
             "type": "Canvas",
             "height": 1756,
             "width": 1188,
+            "label": {
+                "none": [
+                    "1891-relatorio-archer-mss1427958_pages-to-jpg-0006"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/bnbr_sophia_60996/57f1dd563b86c93a93abefdde443644c/full/203,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 203
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/bnbr_sophia_60996/canvas/5/annopage-1",
@@ -627,6 +697,20 @@
             "type": "Canvas",
             "height": 1756,
             "width": 1212,
+            "label": {
+                "none": [
+                    "1891-relatorio-archer-mss1427958_pages-to-jpg-0007"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/bnbr_sophia_60996/52311400fd8ae145e8d2135b6fdb7e82/full/207,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 207
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/bnbr_sophia_60996/canvas/6/annopage-1",
@@ -746,6 +830,20 @@
             "type": "Canvas",
             "height": 1756,
             "width": 1200,
+            "label": {
+                "none": [
+                    "1891-relatorio-archer-mss1427958_pages-to-jpg-0008"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/bnbr_sophia_60996/da30e07b0beecff22060403722a6e4d2/full/205,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 205
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/bnbr_sophia_60996/canvas/7/annopage-1",
@@ -887,6 +985,20 @@
             "type": "Canvas",
             "height": 1756,
             "width": 1200,
+            "label": {
+                "none": [
+                    "1891-relatorio-archer-mss1427958_pages-to-jpg-0009"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/bnbr_sophia_60996/8b0cfc0d372ea2aca7023c701cdf1fa8/full/205,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 205
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/bnbr_sophia_60996/canvas/8/annopage-1",
@@ -973,6 +1085,20 @@
             "type": "Canvas",
             "height": 1353,
             "width": 1756,
+            "label": {
+                "none": [
+                    "1891-relatorio-archer-mss1427958_pages-to-jpg-0010"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/bnbr_sophia_60996/ef177de8503c7746f0616e54cc6db1d7/full/300,231/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 231,
+                    "width": 300
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/bnbr_sophia_60996/canvas/9/annopage-1",
@@ -1037,6 +1163,20 @@
             "type": "Canvas",
             "height": 1156,
             "width": 1756,
+            "label": {
+                "none": [
+                    "1891-relatorio-archer-mss1427958_pages-to-jpg-0001"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/bnbr_sophia_60996/05caab1517e7084c819c870b455b29b0/full/300,197/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 197,
+                    "width": 300
+                }
+            ],
             "items": [
                 {
                     "id": "https://iiif.tiju.ca/bnbr_sophia_60996/canvas/10/annopage-1",
