@@ -1,0 +1,107 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://iiif.tiju.ca/ny00459516/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Angico, Fabaceae, Pseudopiptadenia leptostachya (Benth.) Rauschert"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Tipo"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Exsicata"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Autoria"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Ludwig Riedel"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Data"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1833-07"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://iiif.tiju.ca/ny00459516/5c2d5b34b5ea9e59dca3d31a4833db6b/full/203,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 203
+        }
+    ],
+    "items": [
+        {
+            "id": "https://iiif.tiju.ca/ny00459516/canvas/1",
+            "type": "Canvas",
+            "height": 7250,
+            "width": 4900,
+            "label": {
+                "none": [
+                    "NY00459516_01"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/ny00459516/5c2d5b34b5ea9e59dca3d31a4833db6b/full/203,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 203
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/ny00459516/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/ny00459516/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/ny00459516/canvas/1",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/ny00459516/5c2d5b34b5ea9e59dca3d31a4833db6b/full/1352,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1352,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/ny00459516/5c2d5b34b5ea9e59dca3d31a4833db6b",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -11,7 +11,19 @@
         {
             "label": {
                 "none": [
-                    "Creator"
+                    "Tipo"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Relatório"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Autoria"
                 ]
             },
             "value": {
@@ -23,7 +35,7 @@
         {
             "label": {
                 "none": [
-                    "Date"
+                    "Data"
                 ]
             },
             "value": {
@@ -31,24 +43,8 @@
                     "1891-01-17"
                 ]
             }
-        },
-        {
-            "label": {
-                "none": [
-                    "Type"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Relatório"
-                ]
-            }
         }
     ],
-    "requiredStatement": {
-        "label": "Créditos",
-        "value": "Biblioteca Nacional do Brasil"
-    },
     "rights": "http://rightsstatements.org/vocab/NKC/1.0/",
     "thumbnail": [
         {
@@ -67,7 +63,7 @@
             "width": 1180,
             "label": {
                 "none": [
-                    "1891-relatorio-archer-mss1427958_pages-to-jpg-0002"
+                    "Pág. 1"
                 ]
             },
             "thumbnail": [
@@ -167,7 +163,7 @@
             "width": 1192,
             "label": {
                 "none": [
-                    "1891-relatorio-archer-mss1427958_pages-to-jpg-0003"
+                    "Pág. 2"
                 ]
             },
             "thumbnail": [
@@ -278,7 +274,7 @@
             "width": 1192,
             "label": {
                 "none": [
-                    "1891-relatorio-archer-mss1427958_pages-to-jpg-0004"
+                    "Pág. 3"
                 ]
             },
             "thumbnail": [
@@ -400,7 +396,7 @@
             "width": 1180,
             "label": {
                 "none": [
-                    "1891-relatorio-archer-mss1427958_pages-to-jpg-0005"
+                    "Pág. 4"
                 ]
             },
             "thumbnail": [
@@ -522,7 +518,7 @@
             "width": 1188,
             "label": {
                 "none": [
-                    "1891-relatorio-archer-mss1427958_pages-to-jpg-0006"
+                    "Pág. 5"
                 ]
             },
             "thumbnail": [
@@ -699,7 +695,7 @@
             "width": 1212,
             "label": {
                 "none": [
-                    "1891-relatorio-archer-mss1427958_pages-to-jpg-0007"
+                    "Pág. 6"
                 ]
             },
             "thumbnail": [
@@ -832,7 +828,7 @@
             "width": 1200,
             "label": {
                 "none": [
-                    "1891-relatorio-archer-mss1427958_pages-to-jpg-0008"
+                    "Pág. 7"
                 ]
             },
             "thumbnail": [
@@ -987,7 +983,7 @@
             "width": 1200,
             "label": {
                 "none": [
-                    "1891-relatorio-archer-mss1427958_pages-to-jpg-0009"
+                    "Pág. 8"
                 ]
             },
             "thumbnail": [
@@ -1087,7 +1083,7 @@
             "width": 1756,
             "label": {
                 "none": [
-                    "1891-relatorio-archer-mss1427958_pages-to-jpg-0010"
+                    "Pág. 9 - Mapa demonstrativo"
                 ]
             },
             "thumbnail": [
@@ -1165,7 +1161,7 @@
             "width": 1756,
             "label": {
                 "none": [
-                    "1891-relatorio-archer-mss1427958_pages-to-jpg-0001"
+                    "Descrição da Biblioteca Nacional"
                 ]
             },
             "thumbnail": [

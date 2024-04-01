@@ -11,7 +11,19 @@
         {
             "label": {
                 "none": [
-                    "Creator"
+                    "Tipo"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Livro"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Autoria"
                 ]
             },
             "value": {
@@ -23,7 +35,7 @@
         {
             "label": {
                 "none": [
-                    "Date"
+                    "Data"
                 ]
             },
             "value": {
@@ -31,24 +43,8 @@
                     "1995"
                 ]
             }
-        },
-        {
-            "label": {
-                "none": [
-                    "Type"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Livro"
-                ]
-            }
         }
     ],
-    "requiredStatement": {
-        "label": "Créditos",
-        "value": "Coleção Biblioteca Carioca"
-    },
     "rights": "http://rightsstatements.org/vocab/InC/1.0/",
     "thumbnail": [
         {

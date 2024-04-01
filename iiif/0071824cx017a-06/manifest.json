@@ -11,7 +11,19 @@
         {
             "label": {
                 "none": [
-                    "Creator"
+                    "Tipo"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Fotografia"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Autoria"
                 ]
             },
             "value": {
@@ -23,7 +35,7 @@
         {
             "label": {
                 "none": [
-                    "Date"
+                    "Data"
                 ]
             },
             "value": {
@@ -31,24 +43,8 @@
                     "1885?"
                 ]
             }
-        },
-        {
-            "label": {
-                "none": [
-                    "Type"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Fotografia"
-                ]
-            }
         }
     ],
-    "requiredStatement": {
-        "label": "Créditos",
-        "value": "Instituto Moreira Salles"
-    },
     "rights": "http://rightsstatements.org/vocab/NKC/1.0/",
     "thumbnail": [
         {
@@ -108,5 +104,29 @@
                 }
             ]
         }
-    ]
+    ],
+    "navPlace": {
+        "id": "https://iiif.tiju.ca/0071824cx017a-06/feature-collection/0",
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "id": "https://iiif.tiju.ca/0071824cx017a-06/feature/0",
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        "-22.956819",
+                        "-43.291731"
+                    ]
+                },
+                "properties": {
+                    "label": [
+                        {
+                            "none": "Floresta da Tijuca com Pedra da Gávea ao fundo"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
 }

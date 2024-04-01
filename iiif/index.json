@@ -9,14 +9,41 @@
     },
     "thumbnail": [
         {
-            "id": "https://iiif.tiju.ca/0071824cx017a-06/b321af34f28f6f0465253253649dd387/full/300,226/0/default.jpeg",
+            "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/dff084ca0be6bbbd76bd3f2ef1bc6c68/full/206,300/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
-            "height": 226,
-            "width": 300
+            "height": 300,
+            "width": 206
         }
     ],
     "items": [
+        {
+            "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Inventário do Major Manoel Gomes Archer"
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/ny00459516/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Angico, Fabaceae, Pseudopiptadenia leptostachya (Benth.) Rauschert"
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/p01988071/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Herva-doce ou Pindaíba, Annonaceae, Xylopia brasiliensis Spreng."
+                ]
+            }
+        },
         {
             "id": "https://iiif.tiju.ca/0071824cx017a-06/manifest.json",
             "type": "Manifest",
@@ -27,20 +54,20 @@
             }
         },
         {
-            "id": "https://iiif.tiju.ca/bnbr_sophia_60996/manifest.json",
+            "id": "https://iiif.tiju.ca/858588407x/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
-                    "Relatório dos trabalhos executados na Floresta Nacional da Tijuca de 1º de Janeiro a 31 de Dezembro de 1890"
+                    "Floresta da Tijuca: Natureza e Civilização"
                 ]
             }
         },
         {
-            "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/manifest.json",
+            "id": "https://iiif.tiju.ca/ccnft1966/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
-                    "Inventário do Major Manoel Gomes Archer"
+                    "Floresta da Tijuca"
                 ]
             }
         },
@@ -54,11 +81,11 @@
             }
         },
         {
-            "id": "https://iiif.tiju.ca/858588407x/manifest.json",
+            "id": "https://iiif.tiju.ca/bnbr_sophia_60996/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
-                    "Floresta da Tijuca: Natureza e Civilização"
+                    "Relatório dos trabalhos executados na Floresta Nacional da Tijuca de 1º de Janeiro a 31 de Dezembro de 1890"
                 ]
             }
         }

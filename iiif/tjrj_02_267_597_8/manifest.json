@@ -11,7 +11,19 @@
         {
             "label": {
                 "none": [
-                    "Creator"
+                    "Tipo"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Inventário"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Autoria"
                 ]
             },
             "value": {
@@ -23,7 +35,7 @@
         {
             "label": {
                 "none": [
-                    "Date"
+                    "Data"
                 ]
             },
             "value": {
@@ -31,24 +43,8 @@
                     "1907"
                 ]
             }
-        },
-        {
-            "label": {
-                "none": [
-                    "Type"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Inventário"
-                ]
-            }
         }
     ],
-    "requiredStatement": {
-        "label": "Créditos",
-        "value": "Tribunal de Justiça do Rio de Janeiro"
-    },
     "rights": "Public Domain",
     "thumbnail": [
         {
@@ -67,7 +63,7 @@
             "width": 2102,
             "label": {
                 "none": [
-                    "image00208"
+                    "Capa"
                 ]
             },
             "thumbnail": [
@@ -115,7 +111,7 @@
             "width": 1906,
             "label": {
                 "none": [
-                    "image00210"
+                    "Folha 2"
                 ]
             },
             "thumbnail": [
@@ -163,7 +159,7 @@
             "width": 1970,
             "label": {
                 "none": [
-                    "image00212"
+                    "Folha 3f"
                 ]
             },
             "thumbnail": [
@@ -230,7 +226,7 @@
             "width": 2016,
             "label": {
                 "none": [
-                    "image00213"
+                    "Folha 3v"
                 ]
             },
             "thumbnail": [
@@ -278,7 +274,7 @@
             "width": 1966,
             "label": {
                 "none": [
-                    "image00214"
+                    "Folha 4f"
                 ]
             },
             "thumbnail": [
@@ -326,7 +322,7 @@
             "width": 1954,
             "label": {
                 "none": [
-                    "image00215"
+                    "Folha 4v"
                 ]
             },
             "thumbnail": [
@@ -374,7 +370,7 @@
             "width": 1965,
             "label": {
                 "none": [
-                    "image00216"
+                    "Folha 5f"
                 ]
             },
             "thumbnail": [
@@ -422,7 +418,7 @@
             "width": 2021,
             "label": {
                 "none": [
-                    "image00217"
+                    "Folha 5v"
                 ]
             },
             "thumbnail": [
@@ -470,7 +466,7 @@
             "width": 1953,
             "label": {
                 "none": [
-                    "image00218"
+                    "Folha 6f"
                 ]
             },
             "thumbnail": [
@@ -518,7 +514,7 @@
             "width": 2033,
             "label": {
                 "none": [
-                    "image00219"
+                    "Folha 6v"
                 ]
             },
             "thumbnail": [

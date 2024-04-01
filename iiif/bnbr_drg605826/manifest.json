@@ -11,7 +11,19 @@
         {
             "label": {
                 "none": [
-                    "Creator"
+                    "Tipo"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Livro"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Autoria"
                 ]
             },
             "value": {
@@ -23,7 +35,7 @@
         {
             "label": {
                 "none": [
-                    "Date"
+                    "Data"
                 ]
             },
             "value": {
@@ -31,24 +43,8 @@
                     "1967"
                 ]
             }
-        },
-        {
-            "label": {
-                "none": [
-                    "Type"
-                ]
-            },
-            "value": {
-                "none": [
-                    "Livro"
-                ]
-            }
         }
     ],
-    "requiredStatement": {
-        "label": "Créditos",
-        "value": "Biblioteca Nacional do Brasil"
-    },
     "rights": "http://rightsstatements.org/vocab/InC/1.0/",
     "thumbnail": [
         {
@@ -3894,6 +3890,30 @@
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
                                 ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://iiif.tiju.ca/bnbr_drg605826/canvas/80/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/bnbr_drg605826/canvas/80/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://iiif.tiju.ca/bnbr_drg605826/canvas/80#xywh=373,303,1246,1679",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": {
+                                    "x": 373,
+                                    "y": 303,
+                                    "width": 1246,
+                                    "height": 1679
+                                }
                             }
                         }
                     ]

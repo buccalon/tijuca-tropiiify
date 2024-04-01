@@ -1,0 +1,107 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://iiif.tiju.ca/p01988071/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Herva-doce ou Pindaíba, Annonaceae, Xylopia brasiliensis Spreng."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Tipo"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Exsicata"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Autoria"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Auguste Glaziou"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Data"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1864-07-04"
+                ]
+            }
+        }
+    ],
+    "thumbnail": [
+        {
+            "id": "https://iiif.tiju.ca/p01988071/a14eea27952c9b962a1c922bd5c37e69/full/190,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 190
+        }
+    ],
+    "items": [
+        {
+            "id": "https://iiif.tiju.ca/p01988071/canvas/1",
+            "type": "Canvas",
+            "height": 5222,
+            "width": 3311,
+            "label": {
+                "none": [
+                    "P01988071_01"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/p01988071/a14eea27952c9b962a1c922bd5c37e69/full/190,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 190
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/p01988071/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/p01988071/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/p01988071/canvas/1",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/p01988071/a14eea27952c9b962a1c922bd5c37e69/full/1268,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1268,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/p01988071/a14eea27952c9b962a1c922bd5c37e69",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
