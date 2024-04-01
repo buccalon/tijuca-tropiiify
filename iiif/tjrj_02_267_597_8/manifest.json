@@ -43,8 +43,24 @@
                     "1907"
                 ]
             }
+        },
+        {
+            "label": {
+                "none": [
+                    "Provedor"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Tribunal de Justiça do Rio de Janeiro"
+                ]
+            }
         }
     ],
+    "requiredStatement": {
+        "label": "Créditos",
+        "value": "Tribunal de Justiça do Rio de Janeiro"
+    },
     "rights": "Public Domain",
     "thumbnail": [
         {

@@ -43,8 +43,24 @@
                     "1995"
                 ]
             }
+        },
+        {
+            "label": {
+                "none": [
+                    "Provedor"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Coleção Biblioteca Carioca"
+                ]
+            }
         }
     ],
+    "requiredStatement": {
+        "label": "Créditos",
+        "value": "Coleção Biblioteca Carioca"
+    },
     "rights": "http://rightsstatements.org/vocab/InC/1.0/",
     "thumbnail": [
         {

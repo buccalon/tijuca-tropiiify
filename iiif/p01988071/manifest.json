@@ -43,8 +43,24 @@
                     "1864-07-04"
                 ]
             }
+        },
+        {
+            "label": {
+                "none": [
+                    "Provedor"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Muséum national d'Histoire naturelle (FR)"
+                ]
+            }
         }
     ],
+    "requiredStatement": {
+        "label": "Créditos",
+        "value": "Muséum national d'Histoire naturelle (FR)"
+    },
     "thumbnail": [
         {
             "id": "https://iiif.tiju.ca/p01988071/a14eea27952c9b962a1c922bd5c37e69/full/190,300/0/default.jpg",

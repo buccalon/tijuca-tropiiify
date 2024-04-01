@@ -43,8 +43,24 @@
                     "1967"
                 ]
             }
+        },
+        {
+            "label": {
+                "none": [
+                    "Provedor"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Biblioteca Nacional do Brasil"
+                ]
+            }
         }
     ],
+    "requiredStatement": {
+        "label": "Créditos",
+        "value": "Biblioteca Nacional do Brasil"
+    },
     "rights": "http://rightsstatements.org/vocab/InC/1.0/",
     "thumbnail": [
         {

@@ -43,8 +43,24 @@
                     "1885?"
                 ]
             }
+        },
+        {
+            "label": {
+                "none": [
+                    "Provedor"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Instituto Moreira Salles"
+                ]
+            }
         }
     ],
+    "requiredStatement": {
+        "label": "Créditos",
+        "value": "Instituto Moreira Salles"
+    },
     "rights": "http://rightsstatements.org/vocab/NKC/1.0/",
     "thumbnail": [
         {

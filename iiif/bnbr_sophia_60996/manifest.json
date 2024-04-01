@@ -43,8 +43,24 @@
                     "1891-01-17"
                 ]
             }
+        },
+        {
+            "label": {
+                "none": [
+                    "Provedor"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Biblioteca Nacional do Brasil"
+                ]
+            }
         }
     ],
+    "requiredStatement": {
+        "label": "Créditos",
+        "value": "Biblioteca Nacional do Brasil"
+    },
     "rights": "http://rightsstatements.org/vocab/NKC/1.0/",
     "thumbnail": [
         {

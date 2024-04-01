@@ -43,8 +43,24 @@
                     "1966"
                 ]
             }
+        },
+        {
+            "label": {
+                "none": [
+                    "Provedor"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Centro de Conservação da Natureza"
+                ]
+            }
         }
     ],
+    "requiredStatement": {
+        "label": "Créditos",
+        "value": "Centro de Conservação da Natureza"
+    },
     "rights": "http://rightsstatements.org/vocab/InC/1.0/",
     "thumbnail": [
         {
