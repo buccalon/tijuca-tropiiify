@@ -1,0 +1,111 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://iiif.tiju.ca/tfa-bam-001/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Passeio de automóvel da família Campos Seabra na Floresta da Tijuca"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Tipo"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Fotografia"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Data"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1945?"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Provedor"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Biblioteca Alceo Magnanini"
+                ]
+            }
+        }
+    ],
+    "requiredStatement": {
+        "label": "Créditos",
+        "value": "Biblioteca Alceo Magnanini"
+    },
+    "thumbnail": [
+        {
+            "id": "https://iiif.tiju.ca/tfa-bam-001/3adff5f3124c25b440f490e9ba587101/full/300,234/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 234,
+            "width": 300
+        }
+    ],
+    "items": [
+        {
+            "id": "https://iiif.tiju.ca/tfa-bam-001/canvas/1",
+            "type": "Canvas",
+            "height": 2821,
+            "width": 3623,
+            "label": {
+                "none": [
+                    "Frente"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tfa-bam-001/3adff5f3124c25b440f490e9ba587101/full/300,234/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 234,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/tfa-bam-001/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/tfa-bam-001/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/tfa-bam-001/canvas/1",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/tfa-bam-001/3adff5f3124c25b440f490e9ba587101/full/2000,1557/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1557,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/tfa-bam-001/3adff5f3124c25b440f490e9ba587101",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -99,6 +99,24 @@
             }
         },
         {
+            "id": "https://iiif.tiju.ca/tfa-bam-001/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Passeio de automóvel da família Campos Seabra na Floresta da Tijuca"
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/tfa-bam-002/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Mapa Turístico-Histórico da Tijuca"
+                ]
+            }
+        },
+        {
             "id": "https://iiif.tiju.ca/ccnft1966/manifest.json",
             "type": "Manifest",
             "label": {

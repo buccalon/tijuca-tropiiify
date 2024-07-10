@@ -1,0 +1,123 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://iiif.tiju.ca/tfa-bam-002/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Mapa Turístico-Histórico da Tijuca"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Tipo"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Mapa"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Autoria"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Alvarino Fonseca e Alcides Gomes da Rocha"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Data"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1965"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Provedor"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Biblioteca Alceo Magnanini"
+                ]
+            }
+        }
+    ],
+    "requiredStatement": {
+        "label": "Créditos",
+        "value": "Biblioteca Alceo Magnanini"
+    },
+    "thumbnail": [
+        {
+            "id": "https://iiif.tiju.ca/tfa-bam-002/b046f41a4cfa8408921064c3d9ae7d18/full/300,194/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 194,
+            "width": 300
+        }
+    ],
+    "items": [
+        {
+            "id": "https://iiif.tiju.ca/tfa-bam-002/canvas/1",
+            "type": "Canvas",
+            "height": 3232,
+            "width": 5000,
+            "label": {
+                "none": [
+                    "Mapa-Turistico-Historico-da-Tijuca-1965"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tfa-bam-002/b046f41a4cfa8408921064c3d9ae7d18/full/300,194/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 194,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/tfa-bam-002/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/tfa-bam-002/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/tfa-bam-002/canvas/1",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/tfa-bam-002/b046f41a4cfa8408921064c3d9ae7d18/full/2000,1293/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1293,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/tfa-bam-002/b046f41a4cfa8408921064c3d9ae7d18",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
