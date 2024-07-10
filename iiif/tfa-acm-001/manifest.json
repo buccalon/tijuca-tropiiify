@@ -1,0 +1,135 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://iiif.tiju.ca/tfa-acm-001/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Capela Mayrink"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Tipo"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Fotografia"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Data"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1945?"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Provedor"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Museus Castro Maya"
+                ]
+            }
+        }
+    ],
+    "requiredStatement": {
+        "label": "Créditos",
+        "value": "Museus Castro Maya"
+    },
+    "thumbnail": [
+        {
+            "id": "https://iiif.tiju.ca/tfa-acm-001/8341cad16b226bd8ebb7dab72142ca22/full/216,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 216
+        }
+    ],
+    "items": [
+        {
+            "id": "https://iiif.tiju.ca/tfa-acm-001/canvas/1",
+            "type": "Canvas",
+            "height": 2179,
+            "width": 1571,
+            "label": {
+                "none": [
+                    "image00056"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tfa-acm-001/8341cad16b226bd8ebb7dab72142ca22/full/216,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 216
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/tfa-acm-001/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/tfa-acm-001/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/tfa-acm-001/canvas/1",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/tfa-acm-001/8341cad16b226bd8ebb7dab72142ca22/full/1442,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1442,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/tfa-acm-001/8341cad16b226bd8ebb7dab72142ca22",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "navPlace": {
+        "id": "https://iiif.tiju.ca/tfa-acm-001/feature-collection/0",
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "id": "https://iiif.tiju.ca/tfa-acm-001/feature/0",
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        "-43.2806302",
+                        "-22.9568042"
+                    ]
+                },
+                "properties": {
+                    "label": [
+                        {
+                            "none": "Capela Mayrink"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

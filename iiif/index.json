@@ -9,29 +9,20 @@
     },
     "thumbnail": [
         {
-            "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/dff084ca0be6bbbd76bd3f2ef1bc6c68/full/206,300/0/default.jpg",
+            "id": "https://iiif.tiju.ca/ny00459516/5c2d5b34b5ea9e59dca3d31a4833db6b/full/203,300/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "height": 300,
-            "width": 206
+            "width": 203
         }
     ],
     "items": [
-        {
-            "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/manifest.json",
-            "type": "Manifest",
-            "label": {
-                "none": [
-                    "Inventário do Major Manoel Gomes Archer"
-                ]
-            }
-        },
         {
             "id": "https://iiif.tiju.ca/ny00459516/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
-                    "Angico, Fabaceae, Pseudopiptadenia leptostachya (Benth.) Rauschert"
+                    "Pseudopiptadenia leptostachya (Benth.) Rauschert (Fabaceae)"
                 ]
             }
         },
@@ -54,11 +45,56 @@
             }
         },
         {
-            "id": "https://iiif.tiju.ca/858588407x/manifest.json",
+            "id": "https://iiif.tiju.ca/bnbr_sophia_60996/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
-                    "Floresta da Tijuca: Natureza e Civilização"
+                    "Relatório dos trabalhos executados na Floresta Nacional da Tijuca de 1º de Janeiro a 31 de Dezembro de 1890"
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Inventário do Major Manoel Gomes Archer"
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/pdf-arm-pc_2631/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Avenida Tijuca - Canal na curva 19"
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/cp-fav-purm-pc_192/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Avenida Tijuca com trilhos de bonde"
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/acmsarjp66doc1f1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Estatutos da Sociedade dos Amigos do Rio de Janeiro"
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/tfa-acm-001/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Capela Mayrink"
                 ]
             }
         },
@@ -81,11 +117,11 @@
             }
         },
         {
-            "id": "https://iiif.tiju.ca/bnbr_sophia_60996/manifest.json",
+            "id": "https://iiif.tiju.ca/858588407x/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
-                    "Relatório dos trabalhos executados na Floresta Nacional da Tijuca de 1º de Janeiro a 31 de Dezembro de 1890"
+                    "Floresta da Tijuca: Natureza e Civilização"
                 ]
             }
         }

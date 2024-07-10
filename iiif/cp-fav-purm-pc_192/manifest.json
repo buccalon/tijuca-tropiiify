@@ -1,0 +1,123 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://iiif.tiju.ca/cp-fav-purm-pc_192/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Avenida Tijuca com trilhos de bonde"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Tipo"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Fotografia"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Autoria"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Uriel Malta?"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Data"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1940-02-22"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Provedor"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Arquivo Geral da Cidade do Rio de Janeiro"
+                ]
+            }
+        }
+    ],
+    "requiredStatement": {
+        "label": "Créditos",
+        "value": "Arquivo Geral da Cidade do Rio de Janeiro"
+    },
+    "thumbnail": [
+        {
+            "id": "https://iiif.tiju.ca/cp-fav-purm-pc_192/3211f64fe7933267d493a687d34b1bde/full/215,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 215
+        }
+    ],
+    "items": [
+        {
+            "id": "https://iiif.tiju.ca/cp-fav-purm-pc_192/canvas/1",
+            "type": "Canvas",
+            "height": 5399,
+            "width": 3871,
+            "label": {
+                "none": [
+                    "CP-FAV-PURM-PC_192"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/cp-fav-purm-pc_192/3211f64fe7933267d493a687d34b1bde/full/215,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 215
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/cp-fav-purm-pc_192/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/cp-fav-purm-pc_192/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/cp-fav-purm-pc_192/canvas/1",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/cp-fav-purm-pc_192/3211f64fe7933267d493a687d34b1bde/full/1434,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1434,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/cp-fav-purm-pc_192/3211f64fe7933267d493a687d34b1bde",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

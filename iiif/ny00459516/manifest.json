@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "none": [
-            "Angico, Fabaceae, Pseudopiptadenia leptostachya (Benth.) Rauschert"
+            "Pseudopiptadenia leptostachya (Benth.) Rauschert (Fabaceae)"
         ]
     },
     "metadata": [
@@ -57,6 +57,11 @@
             }
         }
     ],
+    "summary": {
+        "none": [
+            "Angico"
+        ]
+    },
     "requiredStatement": {
         "label": "Créditos",
         "value": "New York Botanical Garden (USA)"

@@ -1,0 +1,123 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://iiif.tiju.ca/pdf-arm-pc_2631/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Avenida Tijuca - Canal na curva 19"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Tipo"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Fotografia"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Autoria"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Aristógiton Malta"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Data"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1938-06-30"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Provedor"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Arquivo Geral da Cidade do Rio de Janeiro"
+                ]
+            }
+        }
+    ],
+    "requiredStatement": {
+        "label": "Créditos",
+        "value": "Arquivo Geral da Cidade do Rio de Janeiro"
+    },
+    "thumbnail": [
+        {
+            "id": "https://iiif.tiju.ca/pdf-arm-pc_2631/766fe1720f8d24639329eeb27d036914/full/300,219/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 219,
+            "width": 300
+        }
+    ],
+    "items": [
+        {
+            "id": "https://iiif.tiju.ca/pdf-arm-pc_2631/canvas/1",
+            "type": "Canvas",
+            "height": 4159,
+            "width": 5684,
+            "label": {
+                "none": [
+                    "PDF-ARM-PC_2631"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/pdf-arm-pc_2631/766fe1720f8d24639329eeb27d036914/full/300,219/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 219,
+                    "width": 300
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/pdf-arm-pc_2631/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/pdf-arm-pc_2631/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/pdf-arm-pc_2631/canvas/1",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/pdf-arm-pc_2631/766fe1720f8d24639329eeb27d036914/full/2000,1463/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1463,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/pdf-arm-pc_2631/766fe1720f8d24639329eeb27d036914",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://iiif.io/api/image/3/context.json",
+  "id": "https://iiif.tiju.ca/pdf-arm-pc_2631/766fe1720f8d24639329eeb27d036914",
+  "type": "ImageService3",
+  "profile": "level0",
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [
+    {
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8,
+        16
+      ],
+      "width": 256
+    }
+  ],
+  "width": 5684,
+  "height": 4159,
+  "sizes": [
+    {
+      "width": 300,
+      "height": 219
+    },
+    {
+      "width": 2000,
+      "height": 1463
+    }
+  ]
+}
