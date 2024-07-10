@@ -1,0 +1,334 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://iiif.tiju.ca/tfa-rme-1938/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Avenida Tijuca"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Tipo"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Artigo"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Autoria"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Francisco Lane"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Data"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1938-05"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Provedor"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Revista Municipal de Engenharia"
+                ]
+            }
+        }
+    ],
+    "requiredStatement": {
+        "label": "Créditos",
+        "value": "Revista Municipal de Engenharia"
+    },
+    "thumbnail": [
+        {
+            "id": "https://iiif.tiju.ca/tfa-rme-1938/81f1b81b537729173d62778845417c84/full/223,300/0/default.jpeg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 223
+        }
+    ],
+    "items": [
+        {
+            "id": "https://iiif.tiju.ca/tfa-rme-1938/canvas/1",
+            "type": "Canvas",
+            "height": 1119,
+            "width": 831,
+            "label": {
+                "none": [
+                    "Pág. 301"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tfa-rme-1938/81f1b81b537729173d62778845417c84/full/223,300/0/default.jpeg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 223
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/tfa-rme-1938/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/tfa-rme-1938/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/tfa-rme-1938/canvas/1",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/tfa-rme-1938/81f1b81b537729173d62778845417c84/full/831,1119/0/default.jpeg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1119,
+                                "width": 831,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/tfa-rme-1938/81f1b81b537729173d62778845417c84",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://iiif.tiju.ca/tfa-rme-1938/canvas/1/annopage-2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/tfa-rme-1938/canvas/1/annopage-2/anno-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "target": "https://iiif.tiju.ca/tfa-rme-1938/canvas/1",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/html",
+                                "value": "<p>to promote housing development with a road considered “the trunk of the federal capital’s touristic road system”</p>"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/tfa-rme-1938/canvas/2",
+            "type": "Canvas",
+            "height": 1119,
+            "width": 763,
+            "label": {
+                "none": [
+                    "Pág. 302"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tfa-rme-1938/a2e839c45668f167ebd00f94b0477ae2/full/204,300/0/default.jpeg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 204
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/tfa-rme-1938/canvas/2/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/tfa-rme-1938/canvas/2/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/tfa-rme-1938/canvas/2",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/tfa-rme-1938/a2e839c45668f167ebd00f94b0477ae2/full/763,1119/0/default.jpeg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1119,
+                                "width": 763,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/tfa-rme-1938/a2e839c45668f167ebd00f94b0477ae2",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/tfa-rme-1938/canvas/3",
+            "type": "Canvas",
+            "height": 1119,
+            "width": 760,
+            "label": {
+                "none": [
+                    "Pág. 303"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tfa-rme-1938/490532cd0766c2a425629378c607076c/full/204,300/0/default.jpeg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 204
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/tfa-rme-1938/canvas/3/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/tfa-rme-1938/canvas/3/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/tfa-rme-1938/canvas/3",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/tfa-rme-1938/490532cd0766c2a425629378c607076c/full/760,1119/0/default.jpeg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1119,
+                                "width": 760,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/tfa-rme-1938/490532cd0766c2a425629378c607076c",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/tfa-rme-1938/canvas/4",
+            "type": "Canvas",
+            "height": 1119,
+            "width": 755,
+            "label": {
+                "none": [
+                    "Pág. 304"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tfa-rme-1938/757a27ac8fe4af6e8fb572bd36dbb22a/full/202,300/0/default.jpeg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 202
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/tfa-rme-1938/canvas/4/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/tfa-rme-1938/canvas/4/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/tfa-rme-1938/canvas/4",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/tfa-rme-1938/757a27ac8fe4af6e8fb572bd36dbb22a/full/755,1119/0/default.jpeg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1119,
+                                "width": 755,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/tfa-rme-1938/757a27ac8fe4af6e8fb572bd36dbb22a",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://iiif.tiju.ca/tfa-rme-1938/canvas/5",
+            "type": "Canvas",
+            "height": 1119,
+            "width": 769,
+            "label": {
+                "none": [
+                    "Pág. 305"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/tfa-rme-1938/5ed2093503e821270166864eaa1e5bf1/full/206,300/0/default.jpeg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 206
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/tfa-rme-1938/canvas/5/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/tfa-rme-1938/canvas/5/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/tfa-rme-1938/canvas/5",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/tfa-rme-1938/5ed2093503e821270166864eaa1e5bf1/full/769,1119/0/default.jpeg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1119,
+                                "width": 769,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/tfa-rme-1938/5ed2093503e821270166864eaa1e5bf1",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

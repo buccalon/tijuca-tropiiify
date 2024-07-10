@@ -63,20 +63,20 @@
             }
         },
         {
+            "id": "https://iiif.tiju.ca/tfa-rme-1938/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Avenida Tijuca"
+                ]
+            }
+        },
+        {
             "id": "https://iiif.tiju.ca/pdf-arm-pc_2631/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
                     "Avenida Tijuca - Canal na curva 19"
-                ]
-            }
-        },
-        {
-            "id": "https://iiif.tiju.ca/cp-fav-purm-pc_192/manifest.json",
-            "type": "Manifest",
-            "label": {
-                "none": [
-                    "Avenida Tijuca com trilhos de bonde"
                 ]
             }
         },
