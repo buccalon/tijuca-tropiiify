@@ -1,0 +1,161 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://iiif.tiju.ca/ny00376111/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Cariniana estrellensis (Raddi) Kuntze"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Tipo"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Amostra de herbário"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Autoria"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Auguste François Marie Glaziou"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Data"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1874"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Provedor"
+                ]
+            },
+            "value": {
+                "none": [
+                    "The New York Botanical Garden (EUA)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Localidade"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Tijuca"
+                ]
+            }
+        }
+    ],
+    "summary": {
+        "none": [
+            "Lecythidaceae"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "none": [
+                "Créditos"
+            ]
+        },
+        "value": {
+            "none": [
+                "Sobre direitos autorais, entrar em contato com The New York Botanical Garden (EUA)"
+            ]
+        }
+    },
+    "rights": "http://rightsstatements.org/vocab/NKC/1.0/",
+    "thumbnail": [
+        {
+            "id": "https://iiif.tiju.ca/ny00376111/16e6b53fc87c9bcfd7297f5243f15986/full/198,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 198
+        }
+    ],
+    "homepage": [
+        {
+            "id": "https://specieslink.net/rec/67/376111",
+            "type": "Text",
+            "format": "text/html",
+            "label": {
+                "none": [
+                    "Mais informações"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://iiif.tiju.ca/ny00376111/canvas/1",
+            "type": "Canvas",
+            "height": 1520,
+            "width": 1004,
+            "label": {
+                "none": [
+                    "NY00376111_01"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/ny00376111/16e6b53fc87c9bcfd7297f5243f15986/full/198,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 198
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/ny00376111/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/ny00376111/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/ny00376111/canvas/1",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/ny00376111/16e6b53fc87c9bcfd7297f5243f15986/full/1004,1520/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1520,
+                                "width": 1004,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/ny00376111/16e6b53fc87c9bcfd7297f5243f15986",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

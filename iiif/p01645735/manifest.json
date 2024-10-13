@@ -1,0 +1,161 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://iiif.tiju.ca/p01645735/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Virola sebifera Aubl."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Tipo"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Amostra de herbário"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Autoria"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Auguste François Marie Glaziou"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Data"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1894"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Provedor"
+                ]
+            },
+            "value": {
+                "none": [
+                    "P herbarium - Muséum national d’histoire naturelle, Paris (FR)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Localidade"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Tijuca"
+                ]
+            }
+        }
+    ],
+    "summary": {
+        "none": [
+            "Myristicaceae"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "none": [
+                "Créditos"
+            ]
+        },
+        "value": {
+            "none": [
+                "Sobre direitos autorais, entrar em contato com P herbarium - Muséum national d’histoire naturelle, Paris (FR)"
+            ]
+        }
+    },
+    "rights": "http://rightsstatements.org/vocab/NKC/1.0/",
+    "thumbnail": [
+        {
+            "id": "https://iiif.tiju.ca/p01645735/094873c1c51cdcaa6469b4d2b837ff0a/full/189,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 189
+        }
+    ],
+    "homepage": [
+        {
+            "id": "https://specieslink.net/rec/644/P01645735",
+            "type": "Text",
+            "format": "text/html",
+            "label": {
+                "none": [
+                    "Mais informações"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://iiif.tiju.ca/p01645735/canvas/1",
+            "type": "Canvas",
+            "height": 4959,
+            "width": 3127,
+            "label": {
+                "none": [
+                    "P01645735_01"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/p01645735/094873c1c51cdcaa6469b4d2b837ff0a/full/189,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 189
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/p01645735/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/p01645735/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/p01645735/canvas/1",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/p01645735/094873c1c51cdcaa6469b4d2b837ff0a/full/1261,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1261,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/p01645735/094873c1c51cdcaa6469b4d2b837ff0a",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

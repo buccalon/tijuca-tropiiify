@@ -58,8 +58,16 @@
         }
     ],
     "requiredStatement": {
-        "label": "Créditos",
-        "value": "Centro de Conservação da Natureza"
+        "label": {
+            "none": [
+                "Créditos"
+            ]
+        },
+        "value": {
+            "none": [
+                "Sobre direitos autorais, entrar em contato com Centro de Conservação da Natureza"
+            ]
+        }
     },
     "rights": "http://rightsstatements.org/vocab/InC/1.0/",
     "thumbnail": [

@@ -58,12 +58,20 @@
         }
     ],
     "requiredStatement": {
-        "label": "Créditos",
-        "value": "Revista Municipal de Engenharia"
+        "label": {
+            "none": [
+                "Créditos"
+            ]
+        },
+        "value": {
+            "none": [
+                "Sobre direitos autorais, entrar em contato com Revista Municipal de Engenharia"
+            ]
+        }
     },
     "thumbnail": [
         {
-            "id": "https://iiif.tiju.ca/tfa-rme-1938/81f1b81b537729173d62778845417c84/full/223,300/0/default.jpeg",
+            "id": "https://iiif.tiju.ca/tfa-rme-1938/81f1b81b537729173d62778845417c84/full/223,300/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "height": 300,
@@ -83,7 +91,7 @@
             },
             "thumbnail": [
                 {
-                    "id": "https://iiif.tiju.ca/tfa-rme-1938/81f1b81b537729173d62778845417c84/full/223,300/0/default.jpeg",
+                    "id": "https://iiif.tiju.ca/tfa-rme-1938/81f1b81b537729173d62778845417c84/full/223,300/0/default.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
                     "height": 300,
@@ -101,7 +109,7 @@
                             "motivation": "painting",
                             "target": "https://iiif.tiju.ca/tfa-rme-1938/canvas/1",
                             "body": {
-                                "id": "https://iiif.tiju.ca/tfa-rme-1938/81f1b81b537729173d62778845417c84/full/831,1119/0/default.jpeg",
+                                "id": "https://iiif.tiju.ca/tfa-rme-1938/81f1b81b537729173d62778845417c84/full/831,1119/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 1119,
@@ -150,7 +158,7 @@
             },
             "thumbnail": [
                 {
-                    "id": "https://iiif.tiju.ca/tfa-rme-1938/a2e839c45668f167ebd00f94b0477ae2/full/204,300/0/default.jpeg",
+                    "id": "https://iiif.tiju.ca/tfa-rme-1938/a2e839c45668f167ebd00f94b0477ae2/full/204,300/0/default.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
                     "height": 300,
@@ -168,7 +176,7 @@
                             "motivation": "painting",
                             "target": "https://iiif.tiju.ca/tfa-rme-1938/canvas/2",
                             "body": {
-                                "id": "https://iiif.tiju.ca/tfa-rme-1938/a2e839c45668f167ebd00f94b0477ae2/full/763,1119/0/default.jpeg",
+                                "id": "https://iiif.tiju.ca/tfa-rme-1938/a2e839c45668f167ebd00f94b0477ae2/full/763,1119/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 1119,
@@ -198,7 +206,7 @@
             },
             "thumbnail": [
                 {
-                    "id": "https://iiif.tiju.ca/tfa-rme-1938/490532cd0766c2a425629378c607076c/full/204,300/0/default.jpeg",
+                    "id": "https://iiif.tiju.ca/tfa-rme-1938/490532cd0766c2a425629378c607076c/full/204,300/0/default.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
                     "height": 300,
@@ -216,7 +224,7 @@
                             "motivation": "painting",
                             "target": "https://iiif.tiju.ca/tfa-rme-1938/canvas/3",
                             "body": {
-                                "id": "https://iiif.tiju.ca/tfa-rme-1938/490532cd0766c2a425629378c607076c/full/760,1119/0/default.jpeg",
+                                "id": "https://iiif.tiju.ca/tfa-rme-1938/490532cd0766c2a425629378c607076c/full/760,1119/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 1119,
@@ -246,11 +254,11 @@
             },
             "thumbnail": [
                 {
-                    "id": "https://iiif.tiju.ca/tfa-rme-1938/757a27ac8fe4af6e8fb572bd36dbb22a/full/202,300/0/default.jpeg",
+                    "id": "https://iiif.tiju.ca/tfa-rme-1938/757a27ac8fe4af6e8fb572bd36dbb22a/full/300,202/0/default.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
-                    "height": 300,
-                    "width": 202
+                    "height": 202,
+                    "width": 300
                 }
             ],
             "items": [
@@ -264,11 +272,11 @@
                             "motivation": "painting",
                             "target": "https://iiif.tiju.ca/tfa-rme-1938/canvas/4",
                             "body": {
-                                "id": "https://iiif.tiju.ca/tfa-rme-1938/757a27ac8fe4af6e8fb572bd36dbb22a/full/755,1119/0/default.jpeg",
+                                "id": "https://iiif.tiju.ca/tfa-rme-1938/757a27ac8fe4af6e8fb572bd36dbb22a/full/1119,755/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
-                                "height": 1119,
-                                "width": 755,
+                                "height": 755,
+                                "width": 1119,
                                 "service": [
                                     {
                                         "id": "https://iiif.tiju.ca/tfa-rme-1938/757a27ac8fe4af6e8fb572bd36dbb22a",
@@ -294,7 +302,7 @@
             },
             "thumbnail": [
                 {
-                    "id": "https://iiif.tiju.ca/tfa-rme-1938/5ed2093503e821270166864eaa1e5bf1/full/206,300/0/default.jpeg",
+                    "id": "https://iiif.tiju.ca/tfa-rme-1938/5ed2093503e821270166864eaa1e5bf1/full/206,300/0/default.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
                     "height": 300,
@@ -312,7 +320,7 @@
                             "motivation": "painting",
                             "target": "https://iiif.tiju.ca/tfa-rme-1938/canvas/5",
                             "body": {
-                                "id": "https://iiif.tiju.ca/tfa-rme-1938/5ed2093503e821270166864eaa1e5bf1/full/769,1119/0/default.jpeg",
+                                "id": "https://iiif.tiju.ca/tfa-rme-1938/5ed2093503e821270166864eaa1e5bf1/full/769,1119/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 1119,

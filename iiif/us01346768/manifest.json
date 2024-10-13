@@ -1,0 +1,161 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://iiif.tiju.ca/us01346768/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Xylopia brasiliensis Spreng."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Tipo"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Amostra de herbário"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Autoria"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Auguste François Marie Glaziou"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Data"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1869"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Provedor"
+                ]
+            },
+            "value": {
+                "none": [
+                    "\tUS - Smithsonian Department of Botany (USA)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Localidade"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Tijuca"
+                ]
+            }
+        }
+    ],
+    "summary": {
+        "none": [
+            "Annonaceae"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "none": [
+                "Créditos"
+            ]
+        },
+        "value": {
+            "none": [
+                "Sobre direitos autorais, entrar em contato com \tUS - Smithsonian Department of Botany (USA)"
+            ]
+        }
+    },
+    "rights": "http://rightsstatements.org/vocab/NKC/1.0/",
+    "thumbnail": [
+        {
+            "id": "https://iiif.tiju.ca/us01346768/59a2ff6bc88a3c1e75b050167b02d5df/full/200,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 200
+        }
+    ],
+    "homepage": [
+        {
+            "id": "https://specieslink.net/rec/201/US 1482962",
+            "type": "Text",
+            "format": "text/html",
+            "label": {
+                "none": [
+                    "Mais informações"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://iiif.tiju.ca/us01346768/canvas/1",
+            "type": "Canvas",
+            "height": 5616,
+            "width": 3744,
+            "label": {
+                "none": [
+                    "US01346768"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/us01346768/59a2ff6bc88a3c1e75b050167b02d5df/full/200,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 200
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/us01346768/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/us01346768/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/us01346768/canvas/1",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/us01346768/59a2ff6bc88a3c1e75b050167b02d5df/full/1333,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1333,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/us01346768/59a2ff6bc88a3c1e75b050167b02d5df",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

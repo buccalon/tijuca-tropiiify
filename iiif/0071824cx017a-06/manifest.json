@@ -4,7 +4,7 @@
     "type": "Manifest",
     "label": {
         "none": [
-            "Floresta da Tijuca com Pedra da Gávea ao fundo"
+            "Vista do Almirante com Pedra da Gávea ao fundo"
         ]
     },
     "metadata": [
@@ -55,20 +55,52 @@
                     "Instituto Moreira Salles"
                 ]
             }
+        },
+        {
+            "label": {
+                "none": [
+                    "Localidade"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Floresta da Tijuca"
+                ]
+            }
         }
     ],
     "requiredStatement": {
-        "label": "Créditos",
-        "value": "Instituto Moreira Salles"
+        "label": {
+            "none": [
+                "Créditos"
+            ]
+        },
+        "value": {
+            "none": [
+                "Sobre direitos autorais, entrar em contato com Instituto Moreira Salles"
+            ]
+        }
     },
     "rights": "http://rightsstatements.org/vocab/NKC/1.0/",
     "thumbnail": [
         {
-            "id": "https://iiif.tiju.ca/0071824cx017a-06/b321af34f28f6f0465253253649dd387/full/300,226/0/default.jpeg",
+            "id": "https://iiif.tiju.ca/0071824cx017a-06/b321af34f28f6f0465253253649dd387/full/300,226/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "height": 226,
             "width": 300
+        }
+    ],
+    "homepage": [
+        {
+            "id": "https://brasilianafotografica.bn.gov.br/brasiliana/handle/20.500.12156.1/6743",
+            "type": "Text",
+            "format": "text/html",
+            "label": {
+                "none": [
+                    "Mais informações"
+                ]
+            }
         }
     ],
     "items": [
@@ -84,7 +116,7 @@
             },
             "thumbnail": [
                 {
-                    "id": "https://iiif.tiju.ca/0071824cx017a-06/b321af34f28f6f0465253253649dd387/full/300,226/0/default.jpeg",
+                    "id": "https://iiif.tiju.ca/0071824cx017a-06/b321af34f28f6f0465253253649dd387/full/300,226/0/default.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
                     "height": 226,
@@ -102,7 +134,7 @@
                             "motivation": "painting",
                             "target": "https://iiif.tiju.ca/0071824cx017a-06/canvas/1",
                             "body": {
-                                "id": "https://iiif.tiju.ca/0071824cx017a-06/b321af34f28f6f0465253253649dd387/full/2000,1510/0/default.jpeg",
+                                "id": "https://iiif.tiju.ca/0071824cx017a-06/b321af34f28f6f0465253253649dd387/full/2000,1510/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 1510,
@@ -138,7 +170,7 @@
                 "properties": {
                     "label": [
                         {
-                            "none": "Floresta da Tijuca com Pedra da Gávea ao fundo"
+                            "none": "Vista do Almirante com Pedra da Gávea ao fundo"
                         }
                     ]
                 }

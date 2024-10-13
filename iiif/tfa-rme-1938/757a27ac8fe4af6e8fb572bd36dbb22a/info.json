@@ -18,12 +18,12 @@
   "height": 1119,
   "sizes": [
     {
-      "width": 202,
-      "height": 300
+      "width": 300,
+      "height": 202
     },
     {
-      "width": 755,
-      "height": 1119
+      "width": 1119,
+      "height": 755
     }
   ]
 }

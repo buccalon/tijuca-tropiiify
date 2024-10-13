@@ -1,0 +1,161 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://iiif.tiju.ca/us01337449/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Roupala montana Aubl."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Tipo"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Amostra de herbário"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Autoria"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Auguste François Marie Glaziou"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Data"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1876"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Provedor"
+                ]
+            },
+            "value": {
+                "none": [
+                    "\tUS - Smithsonian Department of Botany (USA)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Localidade"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Corcovado"
+                ]
+            }
+        }
+    ],
+    "summary": {
+        "none": [
+            "Proteaceae"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "none": [
+                "Créditos"
+            ]
+        },
+        "value": {
+            "none": [
+                "Sobre direitos autorais, entrar em contato com \tUS - Smithsonian Department of Botany (USA)"
+            ]
+        }
+    },
+    "rights": "http://rightsstatements.org/vocab/NKC/1.0/",
+    "thumbnail": [
+        {
+            "id": "https://iiif.tiju.ca/us01337449/0584c6b70db85874a889bc827d8d4d81/full/200,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 200
+        }
+    ],
+    "homepage": [
+        {
+            "id": "https://specieslink.net/rec/201/US 2515558",
+            "type": "Text",
+            "format": "text/html",
+            "label": {
+                "none": [
+                    "Mais informações"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://iiif.tiju.ca/us01337449/canvas/1",
+            "type": "Canvas",
+            "height": 5616,
+            "width": 3744,
+            "label": {
+                "none": [
+                    "US01337449_01"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/us01337449/0584c6b70db85874a889bc827d8d4d81/full/200,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 200
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/us01337449/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/us01337449/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/us01337449/canvas/1",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/us01337449/0584c6b70db85874a889bc827d8d4d81/full/1333,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1333,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/us01337449/0584c6b70db85874a889bc827d8d4d81",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

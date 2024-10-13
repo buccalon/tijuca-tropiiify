@@ -1,0 +1,161 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://iiif.tiju.ca/r000009099/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Eugenia corcovadensis Kiaersk."
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Tipo"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Amostra de herbário"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Autoria"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Auguste François Marie Glaziou"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Data"
+                ]
+            },
+            "value": {
+                "none": [
+                    "1866"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Provedor"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Herbário R. Museu Nacional, UFRJ (BR)"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Localidade"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Corcovado"
+                ]
+            }
+        }
+    ],
+    "summary": {
+        "none": [
+            "Myrtaceae"
+        ]
+    },
+    "requiredStatement": {
+        "label": {
+            "none": [
+                "Créditos"
+            ]
+        },
+        "value": {
+            "none": [
+                "Sobre direitos autorais, entrar em contato com Herbário R. Museu Nacional, UFRJ (BR)"
+            ]
+        }
+    },
+    "rights": "http://rightsstatements.org/vocab/NKC/1.0/",
+    "thumbnail": [
+        {
+            "id": "https://iiif.tiju.ca/r000009099/2a8be8725a5effc5eb8983b1cd12feb2/full/184,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 184
+        }
+    ],
+    "homepage": [
+        {
+            "id": "https://specieslink.net/rec/215/9099",
+            "type": "Text",
+            "format": "text/html",
+            "label": {
+                "none": [
+                    "Mais informações"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://iiif.tiju.ca/r000009099/canvas/1",
+            "type": "Canvas",
+            "height": 10200,
+            "width": 6251,
+            "label": {
+                "none": [
+                    "R000009099"
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://iiif.tiju.ca/r000009099/2a8be8725a5effc5eb8983b1cd12feb2/full/184,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 184
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://iiif.tiju.ca/r000009099/canvas/1/annopage-1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://iiif.tiju.ca/r000009099/canvas/1/annopage-1/anno-1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://iiif.tiju.ca/r000009099/canvas/1",
+                            "body": {
+                                "id": "https://iiif.tiju.ca/r000009099/2a8be8725a5effc5eb8983b1cd12feb2/full/1225,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1225,
+                                "service": [
+                                    {
+                                        "id": "https://iiif.tiju.ca/r000009099/2a8be8725a5effc5eb8983b1cd12feb2",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

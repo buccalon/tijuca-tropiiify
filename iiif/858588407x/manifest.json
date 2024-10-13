@@ -58,8 +58,16 @@
         }
     ],
     "requiredStatement": {
-        "label": "Créditos",
-        "value": "Coleção Biblioteca Carioca"
+        "label": {
+            "none": [
+                "Créditos"
+            ]
+        },
+        "value": {
+            "none": [
+                "Sobre direitos autorais, entrar em contato com Coleção Biblioteca Carioca"
+            ]
+        }
     },
     "rights": "http://rightsstatements.org/vocab/InC/1.0/",
     "thumbnail": [

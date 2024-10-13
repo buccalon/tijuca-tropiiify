@@ -46,8 +46,16 @@
         }
     ],
     "requiredStatement": {
-        "label": "Créditos",
-        "value": "Museus Castro Maya"
+        "label": {
+            "none": [
+                "Créditos"
+            ]
+        },
+        "value": {
+            "none": [
+                "Sobre direitos autorais, entrar em contato com Museus Castro Maya"
+            ]
+        }
     },
     "thumbnail": [
         {

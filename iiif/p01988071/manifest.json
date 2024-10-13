@@ -16,7 +16,7 @@
             },
             "value": {
                 "none": [
-                    "Exsicata"
+                    "Amostra de herbário"
                 ]
             }
         },
@@ -28,7 +28,7 @@
             },
             "value": {
                 "none": [
-                    "Auguste Glaziou"
+                    "Auguste François Marie Glaziou"
                 ]
             }
         },
@@ -58,9 +58,18 @@
         }
     ],
     "requiredStatement": {
-        "label": "Créditos",
-        "value": "Muséum national d'Histoire naturelle (FR)"
+        "label": {
+            "none": [
+                "Créditos"
+            ]
+        },
+        "value": {
+            "none": [
+                "Sobre direitos autorais, entrar em contato com Muséum national d'Histoire naturelle (FR)"
+            ]
+        }
     },
+    "rights": "http://rightsstatements.org/vocab/NKC/1.0/",
     "thumbnail": [
         {
             "id": "https://iiif.tiju.ca/p01988071/a14eea27952c9b962a1c922bd5c37e69/full/190,300/0/default.jpg",

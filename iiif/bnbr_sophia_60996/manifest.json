@@ -58,8 +58,16 @@
         }
     ],
     "requiredStatement": {
-        "label": "Créditos",
-        "value": "Biblioteca Nacional do Brasil"
+        "label": {
+            "none": [
+                "Créditos"
+            ]
+        },
+        "value": {
+            "none": [
+                "Sobre direitos autorais, entrar em contato com Biblioteca Nacional do Brasil"
+            ]
+        }
     },
     "rights": "http://rightsstatements.org/vocab/NKC/1.0/",
     "thumbnail": [

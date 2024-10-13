@@ -36,29 +36,488 @@
             }
         },
         {
-            "id": "https://iiif.tiju.ca/0071824cx017a-06/manifest.json",
+            "id": "https://iiif.tiju.ca/r010078157/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
-                    "Floresta da Tijuca com Pedra da Gávea ao fundo"
+                    "Annona xylopiifolia A.St.-Hil. & Tul."
                 ]
             }
         },
         {
-            "id": "https://iiif.tiju.ca/bnbr_sophia_60996/manifest.json",
+            "id": "https://iiif.tiju.ca/ny00573329/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
-                    "Relatório dos trabalhos executados na Floresta Nacional da Tijuca de 1º de Janeiro a 31 de Dezembro de 1890"
+                    "Apuleia leiocarpa (Vogel) J.F.Macbr."
                 ]
             }
         },
         {
-            "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/manifest.json",
+            "id": "https://iiif.tiju.ca/p01635397/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
-                    "Inventário do Major Manoel Gomes Archer"
+                    "Araucaria angustifolia (Bertol.) Kuntze"
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/p02145789/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Bactris setosa Mart."
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/r000091124/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Bertholletia excelsa Bonpl."
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/p05269943/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Cabralea canjerana (Vell.) Mart."
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/ny00376111/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Cariniana estrellensis (Raddi) Kuntze"
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/r000071691/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Cedrela odorata L."
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/p06645028/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Ceiba crispiflora (Kunth) Ravenna"
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/p06664266/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Ceiba glaziovii (Kuntze) K.Schum."
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/p02952266/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Centrolobium tomentosum Guillem. ex Benth."
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/r010055170/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Coffea arabica L."
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/p00468514/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Copaifera langsdorffii Desf."
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/p00481475/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Copaifera trapezifolia Hayne"
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/p05483115/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Erythroxylum cincinnatum Mart."
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/p05483477/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Erythroxylum pulchrum A.St.-Hil."
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/r000009099/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Eugenia corcovadensis Kiaersk."
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/p02146463/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Euterpe edulis Mart."
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/p03404458/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Handroanthus heptaphyllus (Vell.) Mattos"
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/p03586116/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Handroanthus impetiginosus (Mart. ex DC.) Mattos"
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/p05500858/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Hieronyma alchorneoides Allemão"
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/p04804223/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Joannesia princeps Vell."
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/p04715210/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Lafoensia vandelliana Cham. & Schltdl."
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/r010064697/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Lamanonia ternata Vell. "
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/p05261117/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Leandra strigilliflora (Naudin) Cogn."
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/p04614660/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Lecythis lanceolata Poir."
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/p03104080/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Melanoxylon brauna Schott"
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/p01959771/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Ocotea divaricata (Nees) Mez"
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/p01958700/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Ocotea glaziovii Mez"
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/p02008295/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Ocotea indecora (Schott) Mez"
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/p02008243/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Ocotea lancifolia (Schott) Mez"
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/ny00537923/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Ocotea notata (Nees & Mart.) Mez"
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/p01959070/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Ocotea teleiandra (Meisn.) Mez"
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/p02736486/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Paubrasilia echinata (Lam.) Gagnon, H.C.Lima & G.P.Lewis"
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/p02310281/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Roupala consimilis Mez"
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/p02310163/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Roupala gracilis Meisn."
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/p02310297/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Roupala longepetiolata Pohl"
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/p02310258/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Roupala macrophylla Pohl"
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/us01337449/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Roupala montana Aubl."
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/p02309791/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Roupala montana var. brasiliensis (Klotzsch) K.S.Edwards"
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/p06778116/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Sorocea guilleminiana Gaudich."
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/r000008459/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Spondias admirabilis J.D.Mitch. & Daly"
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/p06701369/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Sterculia apetala (Jacq.) H.Karst."
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/p03586193/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Tabebuia cassinoides (Lam.) DC."
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/p03592587/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Tabebuia obtusifolia (Cham.) Bureau"
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/p03611218/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Tabebuia roseoalba (Ridl.) Sandwith"
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/p02031906/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Virola bicuhyba (Schott ex Spreng.) Warb."
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/p01718480/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Virola gardneri (A.DC.) Warb."
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/p01645735/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Virola sebifera Aubl."
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/p04726775/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Vochysia acuminata Bong."
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/p04726284/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Vochysia oppugnata (Vell.) Warm."
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/us01346768/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Xylopia brasiliensis Spreng."
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/p01987238/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Xylopia laevigata (Mart.) R.E.Fr."
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/p02006145/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Xylopia sericea A.St.-Hil."
                 ]
             }
         },
@@ -72,20 +531,29 @@
             }
         },
         {
-            "id": "https://iiif.tiju.ca/pdf-arm-pc_2631/manifest.json",
-            "type": "Manifest",
-            "label": {
-                "none": [
-                    "Avenida Tijuca - Canal na curva 19"
-                ]
-            }
-        },
-        {
             "id": "https://iiif.tiju.ca/acmsarjp66doc1f1/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
                     "Estatutos da Sociedade dos Amigos do Rio de Janeiro"
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/0071824cx017a-06/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Vista do Almirante com Pedra da Gávea ao fundo"
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/pdf-arm-pc_2631/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Avenida Tijuca - Canal na curva 19"
                 ]
             }
         },
@@ -108,20 +576,11 @@
             }
         },
         {
-            "id": "https://iiif.tiju.ca/tfa-bam-002/manifest.json",
+            "id": "https://iiif.tiju.ca/tjrj_02_267_597_8/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
-                    "Mapa Turístico-Histórico da Tijuca"
-                ]
-            }
-        },
-        {
-            "id": "https://iiif.tiju.ca/ccnft1966/manifest.json",
-            "type": "Manifest",
-            "label": {
-                "none": [
-                    "Floresta da Tijuca"
+                    "Inventário do Major Manoel Gomes Archer"
                 ]
             }
         },
@@ -140,6 +599,33 @@
             "label": {
                 "none": [
                     "Floresta da Tijuca: Natureza e Civilização"
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/ccnft1966/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Floresta da Tijuca"
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/tfa-bam-002/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Mapa Turístico-Histórico da Tijuca"
+                ]
+            }
+        },
+        {
+            "id": "https://iiif.tiju.ca/bnbr_sophia_60996/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Relatório dos trabalhos executados na Floresta Nacional da Tijuca de 1º de Janeiro a 31 de Dezembro de 1890"
                 ]
             }
         }

@@ -58,8 +58,16 @@
         }
     ],
     "requiredStatement": {
-        "label": "Créditos",
-        "value": "Biblioteca Alceo Magnanini"
+        "label": {
+            "none": [
+                "Créditos"
+            ]
+        },
+        "value": {
+            "none": [
+                "Sobre direitos autorais, entrar em contato com Biblioteca Alceo Magnanini"
+            ]
+        }
     },
     "thumbnail": [
         {
@@ -78,7 +86,7 @@
             "width": 5000,
             "label": {
                 "none": [
-                    "Mapa-Turistico-Historico-da-Tijuca-1965"
+                    "Mapa"
                 ]
             },
             "thumbnail": [

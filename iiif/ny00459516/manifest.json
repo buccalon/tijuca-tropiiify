@@ -16,7 +16,7 @@
             },
             "value": {
                 "none": [
-                    "Exsicata"
+                    "Amostra de herbário"
                 ]
             }
         },
@@ -63,9 +63,18 @@
         ]
     },
     "requiredStatement": {
-        "label": "Créditos",
-        "value": "New York Botanical Garden (USA)"
+        "label": {
+            "none": [
+                "Créditos"
+            ]
+        },
+        "value": {
+            "none": [
+                "Sobre direitos autorais, entrar em contato com New York Botanical Garden (USA)"
+            ]
+        }
     },
+    "rights": "http://rightsstatements.org/vocab/NKC/1.0/",
     "thumbnail": [
         {
             "id": "https://iiif.tiju.ca/ny00459516/5c2d5b34b5ea9e59dca3d31a4833db6b/full/203,300/0/default.jpg",
